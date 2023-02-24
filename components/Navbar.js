@@ -30,16 +30,16 @@ const Navbar = () => {
 
         <div className='lg:hidden z-20'>
 
-          <div onClick={() => sethamburger((prev) => { return !prev })} className=" cursor-pointer text-2xl p-10">
+          <div onClick={() => sethamburger((prev) => { return !prev })} className=" cursor-pointer text-2xl p-9">
             {hamburger ? <AiOutlineMenu /> : <AiOutlineClose />}
           </div>
 
           <div className={`fixed h-full w-full top-24 z-20 right-0 bg-white/70 backdrop-blur-sm p-14  ${hamburger ? "hidden" : ""}`}>
-            <ul className='flex-col text-center pl-4 space-y-10  text-gray-900 font-bold  text-2xl'>
-              <li className='' onClick={()=>sethamburger(true)} ><Link href="/">Home</Link></li>
-              <li className='' onClick={()=>sethamburger(true)}><Link  href="/#about">About</Link></li>
-              <li className='' onClick={()=>sethamburger(true)}><Link href="/#popular-courses">Subjects</Link></li>
-              <li className='' onClick={()=>sethamburger(true)}><Link href="/#teachers">Teachers</Link></li>
+            <ul className='flex-col text-center pl-4 space-y-8  text-gray-900 font-bold  text-2xl'>
+              <li className='' onClick={() => sethamburger(true)} ><Link href="/">Home</Link></li>
+              <li className='' onClick={() => sethamburger(true)}><Link href="/#about">About</Link></li>
+              <li className='' onClick={() => sethamburger(true)}><Link href="/#popular-courses">Subjects</Link></li>
+              <li className='' onClick={() => sethamburger(true)}><Link href="/#teachers">Teachers</Link></li>
               <li className='' ><Link href="/gallery">Gallery</Link></li>
               <li className='' ><Link href="/results">Results</Link></li>
               <li className='' ><Link href="/reviews">Reviews</Link></li>
