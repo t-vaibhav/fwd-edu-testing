@@ -13,7 +13,7 @@ const Navbar = () => {
 
       <nav className='flex box-border h-24 items-center justify-around md:justify-between max-w-screen-lg mx-auto duration-500 font-kanit font-bold text-lg bg-white '>
         <div >
-          <Link href="/" className='py-4'><Image src={logo} alt="" className=' h-16 w-auto'/></Link>
+          <Link href="/" className='py-4'><Image src={logo} alt="" className=' h-16 w-auto' /></Link>
         </div>
 
         <div className='lg:block hidden'>
@@ -37,14 +37,14 @@ const Navbar = () => {
 
           <div className={`fixed h-full w-full top-24 z-20 right-0 bg-white/70 backdrop-blur-sm p-14  ${hamburger ? "hidden" : ""}`}>
             <ul className='flex-col text-center pl-4 space-y-10  text-gray-900 font-bold  text-2xl'>
-            <li className=''><Link href="/">Home</Link></li>
-            <li className=''><Link href="/#about">About</Link></li>
-            <li className=''><Link href="/#popular-courses">Subjects</Link></li>
-            <li className=''><Link href="/#teachers">Teachers</Link></li>
-            <li className=''><Link href="/gallery">Gallery</Link></li>
-            <li className=''><Link href="/results">Results</Link></li>
-            <li className=''><Link href="/reviews">Reviews</Link></li>
-            <li className=''><Link href="/contact">Contact</Link></li>
+              <li className='' onClick={() => sethamburger(false)}><Link href="/">Home</Link></li>
+              <li className='' onClick={() => sethamburger(false)}><Link href="/#about">About</Link></li>
+              <li className='' onClick={() => sethamburger(false)}><Link href="/#popular-courses">Subjects</Link></li>
+              <li className='' onClick={() => sethamburger(false)}><Link href="/#teachers">Teachers</Link></li>
+              <li className='' onClick={() => sethamburger(false)}><Link href="/gallery">Gallery</Link></li>
+              <li className='' onClick={() => sethamburger(false)}><Link href="/results">Results</Link></li>
+              <li className='' onClick={() => sethamburger(false)}><Link href="/reviews">Reviews</Link></li>
+              <li className='' onClick={() => sethamburger(false)}><Link href="/contact">Contact</Link></li>
             </ul >
 
           </div>
