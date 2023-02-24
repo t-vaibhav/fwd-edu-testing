@@ -35,9 +35,9 @@ export const Reviews = () => {
     return (
         <section>
 
-            <div className='text-center bg-green-400 py-5 text-4xl text-white font-kanit mt-20'>Reviews</div>
+            <div className='text-center bg-green-400 py-5 text-4xl text-white font-kanit mt-24'>Reviews</div>
             <div className='max-w-screen-lg mx-auto py-10'>
-                <div className="flex justify-around items-center text-3xl font-kanit">
+                <div className="flex justify-around items-center sm:text-3xl text-xl font-kanit">
                     <button className='px-2 py-1 sm:py-2 font-kanit border-2 border-cyan-900 text-indigo-900 bg-gradient-to-r from-teal-100 hover:from-fuchsia-100 hover:to-teal-100 to-fuchsia-100 md:transition ease-in-out hover:scale-95 hover:opacity-90 duration-700 shadow-2xl hover:text-cyan-900 cursor-pointer  rounded-lg mb-5 sm:px-5' onClick={() => { setstu("Student") }}>Student Reviews</button>
                     <button className='px-2 py-1 sm:py-2 font-kanit border-2 border-cyan-900 text-indigo-900 bg-gradient-to-r from-teal-100 hover:from-fuchsia-100 hover:to-teal-100 to-fuchsia-100 md:transition ease-in-out hover:scale-95 hover:opacity-90 duration-700 shadow-2xl hover:text-cyan-900 cursor-pointer rounded-lg mb-5 sm:px-5' onClick={() => { setstu("Parent") }}>Parent Reviews</button>
                 </div>
