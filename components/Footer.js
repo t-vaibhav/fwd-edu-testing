@@ -34,16 +34,16 @@ export const Footer = () => {
                     <div>
                         <h5 className='font-bold text-gray-700 pb-3 lg:pl-[90px]'>Useful Links</h5>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="">Home</a></p>
+                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="/">Home</a></p>
                         </div>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="">About Us</a></p>
+                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="/#about">About Us</a></p>
                         </div>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="">Subjects</a></p>
+                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="/#popular-courses">Subjects</a></p>
                         </div>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="">Teachers</a></p>
+                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="/#teachers">Teachers</a></p>
                         </div>
                     </div>
 
@@ -51,16 +51,16 @@ export const Footer = () => {
                     <div>
                         <h5 className='font-bold text-gray-700 pb-3 lg:pl-[90px]'>Links</h5>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="">Gallery</a></p>
+                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="/gallery">Gallery</a></p>
                         </div>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="">Results</a></p>
+                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="/results">Results</a></p>
                         </div>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="">Reviews</a></p>
+                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="/reviews">Reviews</a></p>
                         </div>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="">Contact</a></p>
+                            <img src="/images/right-arrow.png" alt="" className='h-3 pr-2' /><p className='text-gray-500 hover:underline font-molengo'><a href="/contact">Contact</a></p>
                         </div>
                     </div>
 

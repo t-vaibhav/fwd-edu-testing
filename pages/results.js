@@ -9,8 +9,8 @@ const results = () => {
     return (
         <>
             <Navbar />
-           <div className=' mt-20 pt-20 px-5  max-w-5xl mx-auto'>
-            <Heading heading='OUR ESTEEMED RESULTS' subHeading='RESULTS' />
+            <div className=' mt-20 pt-20 px-5  max-w-5xl mx-auto font-kanit'>
+                <Heading heading='OUR ESTEEMED RESULTS' subHeading='RESULTS' />
 
             </div>
 
@@ -25,7 +25,7 @@ const results = () => {
                                 <Image alt="subject image" className="w-[100%] md:h-64 p-2 " src={item.img} width={600} height={400} />
                             </div>
                             <div className="flex flex-row justify-center space-x-2">
-                                <button className="bg-white text-black w-[80%] shadow-md text-center p-4 rounded-2xl mt-3  ">Check Result</button>
+                                <button className="bg-white text-black w-[80%] shadow-md text-center p-4 rounded-2xl mt-3 font-kanit ">Check Result</button>
 
                             </div>
                         </div>
