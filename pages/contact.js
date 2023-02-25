@@ -76,10 +76,10 @@ const contact = () => {
                         </div>
                     </div>
                 </div>
-
+                {/* 
                 <section className=''>
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.5916334689223!2d77.10031666508148!3d28.671943689047065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d0477d62d5cc3%3A0x21f0ecb39a35dbb9!2sPrateek%20Apartments%2C%20A%202%20Block%2C%20Paschim%20Vihar%2C%20Delhi%2C%20110063!5e0!3m2!1sen!2sin!4v1677174299371!5m2!1sen!2sin" width="100%" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" ></iframe>
-                </section>
+                </section> */}
 
 
             </div>
