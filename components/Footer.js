@@ -81,7 +81,7 @@ export const Footer = () => {
                     </div>
 
                     <div className='flex items-center justify-center sm:inline'>
-                        <Link href=""><Image src="/images/instagram.png" alt="" className='h-10 hover:opacity-70' width={40} height={100} /></Link>
+                        <Link href="https://instagram.com/meenu.sethii" legacyBehavior><a href="https://instagram.com/meenu.sethii" target="_blank" rel="noreferrer"><Image src="/images/instagram.png" alt="" className='h-10 hover:opacity-70' width={40} height={100} /></a></Link>
                     </div>
                 </div>
             </div>
