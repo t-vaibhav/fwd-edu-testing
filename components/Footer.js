@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import Link from 'next/link'
 
 export const Footer = () => {
 
@@ -35,16 +36,16 @@ export const Footer = () => {
                     <div>
                         <h5 className='font-bold text-gray-700 pb-3 lg:pl-[90px]'>Useful Links</h5>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><a href="/">Home</a></p>
+                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><Link href="/">Home</Link></p>
                         </div>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><a href="/#about">About Us</a></p>
+                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><Link href="/#about">About Us</Link></p>
                         </div>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><a href="/#popular-courses">Subjects</a></p>
+                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><Link href="/#popular-courses">Subjects</Link></p>
                         </div>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><a href="/#teachers">Teachers</a></p>
+                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><Link href="/#teachers">Teachers</Link></p>
                         </div>
                     </div>
 
@@ -52,16 +53,16 @@ export const Footer = () => {
                     <div>
                         <h5 className='font-bold text-gray-700 pb-3 lg:pl-[90px]'>Links</h5>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><a href="/gallery">Gallery</a></p>
+                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><Link href="/gallery">Gallery</Link></p>
                         </div>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><a href="/results">Results</a></p>
+                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><Link href="/results">Results</Link></p>
                         </div>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><a href="/reviews">Reviews</a></p>
+                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><Link href="/reviews">Reviews</Link></p>
                         </div>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
-                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><a href="/contact">Contact</a></p>
+                            <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><Link href="/contact">Contact</Link></p>
                         </div>
                     </div>
 
@@ -74,11 +75,11 @@ export const Footer = () => {
 
                 <div className='max-w-screen-lg ml-auto mr-auto sm:flex sm:justify-between sm:items-center  '>
                     <div className='text-center sm:text-left'>
-                        &copy; Copyright <strong><span>Forward Education</span></strong>. All Rights Reserved <br /> Developed & Maintained by <a href="#" className='text-green-600 hover:underline hover:text-green-800'>Chaitanya Anand </a >
+                        &copy; Copyright <strong><span>Forward Education</span></strong>. All Rights Reserved <br /> Developed & Maintained by <Link href="#" className='text-green-600 hover:underline hover:text-green-800'>Chaitanya Anand </Link >
                     </div>
 
                     <div className='flex items-center justify-center sm:inline'>
-                        <a href=""><Image src="/images/instagram.png" alt="" className='h-10 hover:opacity-70' width={40} height={100} /></a>
+                        <Link href=""><Image src="/images/instagram.png" alt="" className='h-10 hover:opacity-70' width={40} height={100} /></Link>
                     </div>
                 </div>
             </div>
