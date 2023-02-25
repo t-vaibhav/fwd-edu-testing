@@ -19,7 +19,7 @@ export const Footer = () => {
                             Paschim Vihar,
                             New Delhi - 110063</p>
                         <p className='pb-6 sm:pb-1 font-molengo text-gray-500 md:max-w-[300px] max-w-[350px]'>
-                            T-2, Ansal Utility Complex, Near Jwala Heri Haldiram, Paschim Vihar, New Delhi - 63</p>
+                            T-2, Ansal Utility Complex, Near Jwala Heri Haldiram, Paschim Vihar, New Delhi - 110063</p>
                     </div>
 
 

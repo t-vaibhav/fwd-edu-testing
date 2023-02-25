@@ -17,7 +17,7 @@ const contact = () => {
                     <div className="justify-center  items-center  flex flex-col md:flex-row md:h-[80vh] ">
                         <div className="md:mr-20 md:w-[40%] md:ml-16 px-5 ">
 
-                            <h1 className="pt-12 font-extrabold text-2xl lg:text-4xl text-white shadow-white font-kanit">We are here Help!</h1>
+                            <h1 className="pt-12 font-extrabold text-2xl lg:text-4xl text-white shadow-white font-kanit">We are here to Help!</h1>
                             <p className="font-semibold text-lg lg:text-2xl shadow-white text-white font-molengo py-5">We understand that you may have questions or concerns about our services, and we want to make it as easy as possible for you to get in touch with us.
 
                                 Please feel free to use our Contact Us section to send us a message. We strive to respond promptly to all inquiries and will do our best to address your needs and concerns. Our team of web developers is highly skilled and experienced, and we are committed to delivering quality results that exceed your expectations.</p>
