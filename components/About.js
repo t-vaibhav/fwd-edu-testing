@@ -23,11 +23,11 @@ export const About = () => {
                     <Image src="/images/classroom image.jpg" alt="" fill={true} className=' w-full pb-5 object-contain' />
                 </div>
                 <p className='font-molengo'>
-                    FORWARD EDUCATION was established back in <strong>1996</strong> by Meenu Sethi who graduated from <strong>SRCC</strong> in first division in 1993 and further excelled herself in clearing coveted <strong>Chartered Accountancy</strong> examination in just 3 years – a rare achievement.
+                <strong>Forward Education</strong> was established back in <strong>1996</strong> by Meenu Sethi who graduated from <strong>SRCC</strong> in first division in 1993 and further excelled herself in clearing coveted <strong>Chartered Accountancy</strong> examination in just 3 years – a rare achievement.
                 </p>
                 <br />
                 <p className='font-molengo'>
-                    She declined lucrative job offers from multinationals favouring her passion for teaching and started FORWARD EDUCATION to impart top quality and sincere coaching to commerce students.
+                    She declined lucrative job offers from multinationals favouring her passion for teaching and started <strong>Forward Education</strong> to impart top quality and sincere coaching to commerce students.
                 </p>
                 <br />
                 <ul className='font-kanit'>
@@ -37,7 +37,7 @@ export const About = () => {
                 </ul>
                 <br />
                 <p>
-                    Education imparted at FORWARD EDUCATION greatly helps the students in academic excellence in school examinations and prepares them for competitive examinations as well.
+                The education provided by <strong>Forward Education</strong>  considerably aids the students in achieving academic brilliance in school exams and also gets them ready for competitive exams.
                 </p>
 
 

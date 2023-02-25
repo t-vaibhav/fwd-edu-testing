@@ -18,7 +18,7 @@ export const Subject = () => {
                     </div>
                 </div>
                 <div className='border border-gray-200'>
-                    <Image width={600} height={500} src="/images/business studies.png" alt="" />
+                    <Image width={600} height={500} src="/images/bst.jpg" alt="" />
                     <div className='md:px-4 px-2'>
                         <h3 className='text-2xl font-bold font-kanit text-slate-700 my-5 '>Business Studies</h3>
                         <p className='font-molengo pb-5 '><strong>CBSE Class XI Business Studies</strong> is comprised of Business, Trade and Commerce, Forms of Business Organisations, Private, Public and Global Enterprises, Business Services, Emerging modes of Business, Social Responsibilities of Business and Business ethics, Formation of a Company, Sources of Business Finance, Small Business, Internal Trade and International Business.</p>
