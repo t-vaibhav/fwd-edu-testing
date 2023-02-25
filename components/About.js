@@ -31,9 +31,9 @@ export const About = () => {
                 </p>
                 <br />
                 <ul className='font-kanit'>
-                    <a href="" className='flex items-center px-2 h-10 rounded-md my-2 text-gray-700 py-2 bg-yellow-300'><Image width={30} height={30} src="/images/accept.png" alt="" className='h-full p-1 object-contain ' /><li className=''><strong>Unique methods of coaching</strong></li></a>
-                    <a href="" className='flex items-center px-2 h-10 rounded-md my-2 text-gray-700 py-2 bg-green-300'><Image width={30} height={30} src="/images/accept.png" alt="" className='h-full p-1 object-contain ' /><li className=''><strong>Concept-rich education</strong></li></a>
-                    <a href="" className='flex items-center px-2 h-10 rounded-md my-2 text-gray-700 py-2 bg-blue-300'><Image width={30} height={30} src="/images/accept.png" alt="" className='h-full p-1 object-contain ' /><li className=''><strong>Personal bonding</strong></li></a>
+                    <li className='flex items-center px-2 h-10 rounded-md my-2 text-gray-700 py-2 bg-yellow-300'><Image width={30} height={30} src="/images/accept.png" alt="" className='h-full p-1 object-contain ' /><strong>Unique methods of coaching</strong></li>
+                    <li className='flex items-center px-2 h-10 rounded-md my-2 text-gray-700 py-2 bg-green-300'><Image width={30} height={30} src="/images/accept.png" alt="" className='h-full p-1 object-contain ' /><strong>Concept-rich education</strong></li>
+                    <li className='flex items-center px-2 h-10 rounded-md my-2 text-gray-700 py-2 bg-blue-300'><Image width={30} height={30} src="/images/accept.png" alt="" className='h-full p-1 object-contain ' /><strong>Personal bonding</strong></li>
                 </ul>
                 <br />
                 <p>
