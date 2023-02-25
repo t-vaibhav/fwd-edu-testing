@@ -1,6 +1,7 @@
 import React from 'react'
 import { resultsList } from '@/utility/data'
 import Image from 'next/image'
+import Link from 'next/link'
 import Heading from '@/components/Heading'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
@@ -25,7 +26,7 @@ const results = () => {
                                 <Image alt="subject image" className="w-[100%] md:h-64 p-2 " src={item.img} width={600} height={400} />
                             </div>
                             <div className="flex flex-row justify-center space-x-2">
-                                <button className="bg-white text-black w-[80%] shadow-md text-center p-4 rounded-2xl mt-3 font-kanit ">Check Result</button>
+                                <Link href={`/assests/${item.pdfLink}`} target="_blank" className="bg-white text-black w-[80%] shadow-md text-center p-4 rounded-2xl mt-3 font-kanit ">Check Result</Link>
 
                             </div>
                         </div>

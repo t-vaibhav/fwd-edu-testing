@@ -14,10 +14,12 @@ export const Footer = () => {
                     {/* upper section of footer */}
                     <div>
                         <h2 className='font-kanit text-3xl text-gray-700'>FORWARD EDUCATION</h2>
-                        <p className='pb-6 font-molengo text-gray-500 max-w-[160px]'>A-2/29, Second Floor,
+                        <p className='pb-6 font-molengo text-gray-500 md:max-w-[300px] max-w-[350px]'>A-2/29, Second Floor,
                             Prateek Apartments,
                             Paschim Vihar,
                             New Delhi - 110063</p>
+                        <p className='pb-6 sm:pb-1 font-molengo text-gray-500 md:max-w-[300px] max-w-[350px]'>
+                            T-2, Ansal Utility Complex, Near Jwala Heri Haldiram, Paschim Vihar, New Delhi - 63</p>
                     </div>
 
 

@@ -211,24 +211,24 @@ export const galleryIndex = [
 
 export const resultsList = [
     {
-        heading : "Results for 2019-20",
-        img : "https://media.istockphoto.com/id/1307098713/photo/close-up-white-paper-desk-calendar-with-blurred-bokeh-background-appointment-and-business.jpg?s=612x612&w=0&k=20&c=a3ZK7sXFXjUxPUANyM2dVYiSnIdfkO7f49AMiQdH6z0=",
-        pdfLink: ""
+        heading: "Results for 2019-20",
+        img: "https://media.istockphoto.com/id/1307098713/photo/close-up-white-paper-desk-calendar-with-blurred-bokeh-background-appointment-and-business.jpg?s=612x612&w=0&k=20&c=a3ZK7sXFXjUxPUANyM2dVYiSnIdfkO7f49AMiQdH6z0=",
+        pdfLink: "2019-2020res.pdf"
     },
     {
-        heading : "Accountancy Result for Past 10 Years",
-        img : "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZmluYW5jZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        pdfLink: ""
+        heading: "Accountancy Result for Past 10 Years",
+        img: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZmluYW5jZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        pdfLink: "CombinedAccountancy.pdf"
     },
     {
-        heading : "Bussiness Studies Result for Past 10 Years",
-        img : "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YnVzc2luZXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        pdfLink: ""
+        heading: "Bussiness Studies Result for Past 10 Years",
+        img: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YnVzc2luZXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        pdfLink: "CombinedBusiness.pdf"
     },
     {
-        heading : "Economics Result for Past 10 Years",
-        img : "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZWNvbm9teXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        pdfLink: ""
+        heading: "Economics Result for Past 10 Years",
+        img: "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZWNvbm9teXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        pdfLink: "CombinedEco.pdf"
     },
 
 
