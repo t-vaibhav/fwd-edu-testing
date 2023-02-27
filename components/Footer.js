@@ -34,7 +34,7 @@ export const Footer = () => {
 
 
                     <div>
-                        <h5 className='font-bold text-gray-700 pb-3 lg:pl-[90px]'>Useful Links</h5>
+                        <h5 className='font-bold text-gray-700 pb-3 lg:pl-[90px]'>Links</h5>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
                             <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><Link href="/">Home</Link></p>
                         </div>
@@ -51,7 +51,7 @@ export const Footer = () => {
 
 
                     <div>
-                        <h5 className='font-bold text-gray-700 pb-3 lg:pl-[90px]'>Links</h5>
+                        <h5 className='font-bold text-gray-700 pb-3 lg:pl-[90px]'>More</h5>
                         <div className='flex items-center lg:mb-3 lg:pl-[95px]'>
                             <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 hover:underline font-molengo'><Link href="/gallery">Gallery</Link></p>
                         </div>
