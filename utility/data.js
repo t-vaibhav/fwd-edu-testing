@@ -79,12 +79,7 @@ export const studentReviews = [
         student: "Vriti Bhalla | Hans Raj Model School",
 
     },
-    {
-        img: "Maanya Bajaj.png",
-        txt: "Learning from Meenu ma’am is an enriching experience. I have thoroughly enjoyed this academic journey. As a humanities student, earlier I used to struggle with concepts of economics but with ma’am’s support and guidance I now count it as one of my top subjects. The classes enhanced my academic ability and gave me many insightful lessons. It was amazing to embark on such a beautiful journey with Forward Education.",
-        student: "Maanya Bajaj | The Heritage School",
 
-    },
     {
         img: "Sanya Arora.jpg",
         txt: "I got the opportunity to study from Meenu ma’am for the 2 most important foundation years of my life – Class 11 and 12. She made me fall in love with Commerce subjects and inspired me to pursue them as my profession and become a Chartered Accountant. She made the subject seem so smooth by preparing us with the concepts and helped us crack questions of all kinds. I’ll always be thankful to Forward Education and Meenu ma’am for guiding and supporting me throughout. You make your students’ lives so easy with your hard work and perseverance.",
@@ -123,6 +118,11 @@ export const parentReviews = [
         txt: "Ms. Meenu is one of the best teachers I have come across. She's knowledgeable, accessible, devoted and takes a lot of interest in each student.I guess that's what every parent looks toward.",
         parent: 'Mrs. Priya Bir, Mother Of Shubhang Bir | Apeejay School, Pitampura',
     },
+    {
+        img: 'rashmikohli.jpg',
+        txt: "My son has been studying Accounts under the  guidance of Meenu Sethi ma’am. I thank her for being a great mentor and an absolutely wonderful teacher, not just to my son but to all her students. When children enter this crucial year of class 12th, a lot of anxieties settle in as a parent, especially when the pandemic has struck us. But thankfully, we didn’t have to worry as Meenu ma’am continued her classes online and the transition was so smooth, it never felt like my child was missing out on anything. Her ability to get the students to work together and motivate them makes her fabulous.",
+        parent: 'Mrs. Rashmi Kohli, Mother Of Maahir Kohli | St Marks, Meera Bagh',
+    },
 
 
 
@@ -136,7 +136,7 @@ export const sectionData = [
         title: "Students"
     },
     {
-        number: 25,
+        number: 27,
         suffix: "+",
         title: "Years"
     },

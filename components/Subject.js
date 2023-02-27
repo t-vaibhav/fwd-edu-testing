@@ -8,7 +8,7 @@ export const Subject = () => {
         <section className='max-w-screen-lg flex ml-auto mr-auto  p-2 flex-col' id="popular-courses">
             <Heading heading='SUBJECTS' subHeading='SUBJECTS OFFERED' />
 
-            <div className='grid md:grid-cols-3 gap-7 md:gap-3 '>
+            <div className='grid md:grid-cols-2 gap-7 md:gap-3 '>
                 <div className='border border-gray-200'>
                     <Image width={600} height={500} src="/images/accounts.jpg" alt="" />
                     <div className='md:px-4 px-2'>

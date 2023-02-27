@@ -7,7 +7,7 @@ import Heading from './Heading'
 export const Teacher = () => {
     return (
         <section className='max-w-screen-lg ml-auto mr-auto  p-2 pb-10' id='teachers'>
-            <Heading heading='TEACHERS' subHeading='OUR PROFESSIONAL TEACHERS' />
+            <Heading heading='OUR FOUNDER' subHeading='THE DRIVING FORCE' />
 
             <div className='grid-cols-1 gap-5'>
                 <div className=' text-left max-w-[500px] lg:max-w-full lg:flex'>

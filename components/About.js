@@ -15,7 +15,7 @@ export const About = () => {
 
 
         <section className='max-w-screen-lg flex ml-auto mr-auto  p-2' id='about'>
-            <div className='md:w-1/2 '>
+            <div className='md:w-[47%] '>
                 <Heading heading='ABOUT' subHeading='ABOUT US' />
 
 
@@ -37,13 +37,13 @@ export const About = () => {
                 </ul>
                 <br />
                 <p>
-                The education provided by <strong>Forward Education</strong>  considerably aids the students in achieving academic brilliance in school exams and also gets them ready for competitive exams.
+                Education imparted at <strong>FORWARD EDUCATION</strong>  greatly helps the students in achieving academic excellence in school examinations and prepares them for competitive examinations as well.
                 </p>
 
 
             </div>
 
-            <div className='w-1/2 h-[45vh] px-4 mt-auto mb-auto hidden md:block relative'>
+            <div className='w-[47%] h-[45vh] px-4 mt-auto mb-auto hidden md:block relative md:mx-4'>
                 <Image src="/images/classroom image.jpg" className='object-contain' fill={true} alt="" />
             </div>
         </section>
