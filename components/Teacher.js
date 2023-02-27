@@ -17,7 +17,7 @@ export const Teacher = () => {
                         <p className='text-lg text-red-600 font-molengo font-semibold'>Chartered Accountant | Educator | Entrepreneur</p>
                         <p className='text-xl lg:text-2xl font-lg font-kanit text-slate-500 pt-2 font-bold'>FOUNDER AT FORWARD EDUCATION</p>
                         <p className='text-green-700 font-bold py-3'>Subjects - Accountancy, Business Studies and Economics</p>
-                        <p className='font-molengo pb-5 text-gray-600'>Meenu Sethi has over 25 years of experience in teaching commerce subjects to over 2500 students. She firmly believes in imparting evolved and unique learning, by ensuring a personal connect with each student, understanding them in their journeys. She focuses on stimulating the intellect of students encouraging them to truly connect and understand the subjects by-passing the need of rote memorisation.</p>
+                        <p className='font-molengo pb-5 text-gray-600'>Meenu Sethi has over 27 years of experience in teaching commerce subjects to over 2500 students. She firmly believes in imparting evolved and unique learning, by ensuring a personal connect with each student, understanding them in their journeys. She focuses on stimulating the intellect of students encouraging them to truly connect and understand the subjects by-passing the need of rote memorisation.</p>
                         <p className='font-molengo pb-5 text-gray-600'>She constantly inspires her students to excel not only in their academic pursuits but life in general.</p>
                     </div>
 

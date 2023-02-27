@@ -9,21 +9,22 @@ export const Footer = () => {
         <footer className=''>
             <div className='bg-gray-100 p-5'>
 
-                <div className='grid grid-rows-4 md:grid-cols-2 md:grid-rows-2 lg:grid-rows-1 lg:grid-cols-4 gap-5 max-w-screen-lg ml-auto mr-auto'>
+                <div className='md:grid flex flex-col  md:grid-cols-2 md:grid-rows-2 lg:grid-rows-1 lg:grid-cols-4 gap-5 max-w-screen-lg ml-auto mr-auto'>
 
                     {/* upper section of footer */}
-                    <div>
+                    <div >
                         <h2 className='font-kanit text-3xl text-gray-700'>FORWARD EDUCATION</h2>
-                        <p className='pb-6 sm:pb-1 font-molengo text-gray-500 md:max-w-[300px] max-w-[350px]'>
-                            T-2, Ansal Utility Complex, Near Jwala Heri Haldiram, Paschim Vihar, New Delhi - 110063</p>
-                        <p className='pb-6 font-molengo text-gray-500 md:max-w-[300px] max-w-[350px]'>CSP Tower 1, Unit no. 1101, 1st Floor, DLF Capital Greens, Shivaji Marg, Near Moti Nagar,<br/> New Delhi - 110015</p>
-                        
+                        <ul className='list-disc space-y-3 pt-3 ml-3 md:ml-1'>
+                        <li className='pb-6 sm:pb-1 font-molengo text-gray-500 md:max-w-[300px] max-w-[350px]'>
+                            T-2, Ansal Utility Complex, Near Jwala Heri Haldiram, Paschim Vihar, New Delhi - 110063</li>
+                        <li className='pb-6  font-molengo text-gray-500 md:max-w-[300px] max-w-[350px]'>CSP Tower 1, Unit no. 1101, 1st Floor, DLF Capital Greens, Shivaji Marg, Near Moti Nagar,<br/> New Delhi - 110015</li>
+                        </ul>
                     </div>
 
 
                     <div>
 
-                        <h5 className='font-bold text-gray-700 pb-3 lg:pl-[10px] '>CONTACT</h5>
+                        <h5 className='font-bold text-gray-700 pb-3 lg:pl-[10px] '>Contact</h5>
                         <div className='flex items-center lg:mb-3 lg:pl-[15px]'>
                             <Image src="/images/right-arrow.png" alt="" className='h-3 pr-2' width={20} height={12} /><p className='text-gray-500 font-molengo'><strong>Phone: </strong>9810763856</p>
                         </div>
