@@ -56,7 +56,7 @@ const contact = () => {
 
                                 </div>
                                 <div className="ml-2 font-semibold text-lg  font-molengo ">
-                                <p> CSP Tower 1, Unit no. 1101, 1st Floor, DLF CAPITAL GREENS, SHIVAJI MARG, Near Moti Nagar,</p>
+                                <p> CSP Tower 1, Unit no. 1101, 1st Floor, DLF Capital Greens, Shivaji Marg, Near Moti Nagar,</p>
                                 
                                 <p> New Delhi - 110015</p>
                                 </div>
