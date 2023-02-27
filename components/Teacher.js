@@ -11,7 +11,7 @@ export const Teacher = () => {
 
             <div className='grid-cols-1 gap-5'>
                 <div className=' text-left max-w-[500px] lg:max-w-full lg:flex'>
-                    <Image src="/images/gallery/11.jpeg" alt="" width={500} height={500} className='object-cover  aspect-square' />
+                    <Image src="/images/founder.jpg" alt="" width={500} height={500} className='object-cover  aspect-square' />
                     <div className='lg:p-5 p-2'>
                         <h3 className='text-4xl font-bold font-kanit text-slate-700 mt-5'>Meenu Sethi</h3>
                         <p className='text-lg text-red-600 font-molengo font-semibold'>Chartered Accountant | Educator | Entrepreneur</p>
