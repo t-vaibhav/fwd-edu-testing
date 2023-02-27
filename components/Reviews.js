@@ -24,7 +24,7 @@ export const Reviews = () => {
                     <Image src={`/images/reviews/${review.img}`} className='rounded-sm object-contain' width={600} height={700} alt={review.student} />
                 </div>
                 <p className='text-gray-800 py-2 '>{review.txt}</p>
-                <h4 className='text-lg text-black font-bold rounded font-kanit'>{review.parent}</h4>
+                <h4 className='text-lg text-black font-bold rounded font-kanit' dangerouslySetInnerHTML={{ __html: review.parent }}></h4>
             </div>
         )
     })

@@ -106,22 +106,22 @@ export const parentReviews = [
     {
         img: 'Mr. Jogesh Verma.jpg',
         txt: 'My Son Asmit, studied with Meenu ma’am for class XII Accounts. She is an excellent guide and mentor. Though the coaching this year was 100% online, she put in effort to explain each topic to students. Always willing to help.',
-        parent: 'Mr. Jogesh Verma, Father Of Asmit Verma | GD Goenka',
+        parent: 'Mr. Jogesh Verma <br/> Father Of Asmit Verma <br/> GD Goenka',
     },
     {
         img: 'Ms. Chandeep Marwah.jpg',
         txt: 'My son has been studying at Forward Education since the last 2 years. It has been a good learning curve for him as he began finding the subjects interesting. I really loved the way in which Meenu conducts her classes. The best thing I found in the whole endeavour was her revision classes, wherein she teaches using Mind Maps and many more wonderful tools, which triggers children’s thinking process and makes them remember the concepts very well.',
-        parent: 'Mrs. Chandeep Marwah, Mother Of Jasraj Marwah | Sardar Patel Vidyalaya',
+        parent: 'Mrs. Chandeep Marwah <br/> Mother Of Jasraj Marwah <br/> Sardar Patel Vidyalaya',
     },
     {
         img: 'Ms. Priya Bir.jpg',
         txt: "Ms. Meenu is one of the best teachers I have come across. She's knowledgeable, accessible, devoted and takes a lot of interest in each student.I guess that's what every parent looks toward.",
-        parent: 'Mrs. Priya Bir, Mother Of Shubhang Bir | Apeejay School, Pitampura',
+        parent: 'Mrs. Priya Bir <br/> Mother Of Shubhang Bir <br/> Apeejay School, Pitampura',
     },
     {
         img: 'rashmikohli.jpg',
         txt: "My son has been studying Accounts under the  guidance of Meenu Sethi ma’am. I thank her for being a great mentor and an absolutely wonderful teacher, not just to my son but to all her students. When children enter this crucial year of class 12th, a lot of anxieties settle in as a parent, especially when the pandemic has struck us. But thankfully, we didn’t have to worry as Meenu ma’am continued her classes online and the transition was so smooth, it never felt like my child was missing out on anything. Her ability to get the students to work together and motivate them makes her fabulous.",
-        parent: 'Mrs. Rashmi Kohli, Mother Of Maahir Kohli | St Marks, Meera Bagh',
+        parent: 'Mrs. Rashmi Kohli <br/> Mother Of Maahir Kohli <br/> St Marks, Meera Bagh',
     },
 
 
