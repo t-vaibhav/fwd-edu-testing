@@ -137,7 +137,7 @@ export const sectionData = [
     },
     {
         number: 27,
-        suffix: "+",
+        suffix: "",
         title: "Years"
     },
     {
