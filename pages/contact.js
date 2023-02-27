@@ -46,21 +46,7 @@ const contact = () => {
 
                                 <p className="font-semibold text-lg font-molengo">9810763856</p>
                             </div>
-                            <div className="flex mt-8">
-                                <div className="w-20 h-20">
-                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" >
-                                    <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
-                                    <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
-                                </svg>
-                                </div>
-                                <div className="ml-2 font-semibold text-lg  font-molengo ">
-                                    T-2, Ansal Utility Complex, 
-                                    Near Jwala Heri Haldiram,
-                                    Paschim Vihar,
-                                    New Delhi - 110063
-                                </div>
 
-                            </div>
                             <div className="flex mt-8">
                                 <div className="w-20 h-20">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" >
@@ -76,7 +62,21 @@ const contact = () => {
                                 </div>
 
                             </div>
-                           
+                            <div className="flex mt-8">
+                                <div className="w-20 h-20">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" >
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
+                                </svg>
+                                </div>
+                                <div className="ml-2 font-semibold text-lg  font-molengo ">
+                                    T-2, Ansal Utility Complex, 
+                                    Near Jwala Heri Haldiram,
+                                    Paschim Vihar,
+                                    New Delhi - 110063
+                                </div>
+
+                            </div>
                         </div>
                     </div>
                 </div>
