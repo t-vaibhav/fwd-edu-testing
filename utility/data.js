@@ -3,99 +3,99 @@ export const studentReviews = [
     {
         img: "Nandini Chawla.jpg",
         txt: "I was a student at Forward Education in the year 2019-20. The conceptual clarity that Meenu ma’am brings is never taught in books. We learned, we understood, we practiced, we scored. A heartfelt thank you for everything ma’am.",
-        student: "Nandini Chawla | St. Marks",
+        student: "Nandini Chawla <br/> St. Marks",
 
     },
     {
 
         img: "Aakriti Arora.jpg",
         txt: "Having studied at Forward Education for 2 years, I can proudly say that Meenu ma’am’s dedication and guidance are unmatchable. She ensured that our base concepts were strong. Her regular tests, doubt sessions and persistence made all subjects a cakewalk. Her notes are an incredibly useful asset, and they are useful even for college exams. I doubt there is a better teacher who can teach the Commerce subjects with such ease and perfection.",
-        student: "Aakriti Arora | New Era Public School"
+        student: "Aakriti Arora <br/> New Era Public School"
     },
 
     {
         img: "Maanya Bajaj.png",
         txt: "Learning from Meenu ma’am is an enriching experience. I have thoroughly enjoyed this academic journey. As a humanities student, earlier I used to struggle with concepts of economics but with ma’am’s support and guidance I now count it as one of my top subjects. The classes enhanced my academic ability and gave me many insightful lessons. It was amazing to embark on such a beautiful journey with Forward Education.",
-        student: "Maanya Bajaj | The Heritage School",
+        student: "Maanya Bajaj <br/> The Heritage School",
 
     },
     {
         img: "Sugandha Bhatia.jpg",
         txt: "I was a student at Forward Education from 2011-12, and one word for Meenu ma’am – incredible. She didn’t just teach us Accounts but many more skills like time management and organization. She made the humungous subject too trivial for us with her techniques and skills. Thank you ma’am, for all the hard work and patience with which you taught us the most dreaded subject.",
-        student: "Sugandha Bhatia | New Era Public School",
+        student: "Sugandha Bhatia <br/> New Era Public School",
 
     },
     {
         img: "Sarthak Malhotra.jpg",
         txt: "It gives me immense pride to say that joining Forward Education was indeed the best decision I ever made. Meenu ma’am made a technical subject like Accounts look like a cakewalk. The special emphasis on understanding of concepts made the real difference. Notes prepared by ma’am are a real treasure. Her guidance in practice assignments, regular tests and revisions helped me master the subject. Thank to her, even after 4 years I remember the concepts so vividly.",
-        student: "Sarthak Malhotra | Shah International School",
+        student: "Sarthak Malhotra <br/> Shah International School",
 
     },
     {
         img: "Prachi Jain.png",
         txt: "Meenu ma'am is a great teacher. Whether online or offline, she always works hard for each student. I would recommend her coaching classes for students who want to score good.",
-        student: "Prachi Jain | Indraprastha World School",
+        student: "Prachi Jain <br/> Indraprastha World School",
 
     },
     {
         img: "Venika Sikka.png",
         txt: "Meenu ma'am's methods of teaching are simply remarkable! She makes everything easy and understandable for all. Highly recommend for sound conceptual learning!",
-        student: "Venika Sikka | Hans Raj Model School",
+        student: "Venika Sikka <br/> Hans Raj Model School",
 
     },
     {
         img: "Sia Arora.jpg",
         txt: "Meenu ma'am is a very dedicated teacher who puts a lot of thought into how she explains everything. She is always very patient with everyone in class and always encourages students to work hard. I would highly recommend her to anyone who's interested in learning things conceptually, rather than mugging it up.",
-        student: "Sia Arora | Delhi Public School, Rohini",
+        student: "Sia Arora <br/> Delhi Public School, Rohini",
 
     },
     {
         img: "Harmehar Kaur.jpg",
         txt: "I studied at Forward Education from 2012-14. It’s been a beautiful journey under Meenu ma’am’s mentoring. I scored great in both Accounts and Economics in class 12. It was all because of her support and belief in me that I could achieve success in these subjects. I have always admired her as a teacher. She is not only an amazing mentor, but a wonderful human being too. It has been a wonderful experience studying at Forward Education. Thank you Meenu ma’am for imparting great knowledge.",
-        student: "Harmehar Kaur | Bhatnagar International School",
+        student: "Harmehar Kaur <br/> Bhatnagar International School",
 
     },
     {
         img: "Yastika Sikka.jpg",
         txt: "Meenu ma'am is a great teacher and friend. Her classes are always interactive and fun. Her teaching methods make the difficult parts of the subject easy to learn; be it accounts, economics or business studies. Her personal attention to students really helps a lot. Highly recommended, whether online or offline!",
-        student: "Yastika Sikka | St. Marks Girls Senior Secondary School",
+        student: "Yastika Sikka <br/> St. Marks Girls Senior Secondary School",
 
     },
     {
         img: "Divyam Khorwal.png",
         txt: "Her simple and linear way of teaching and bringing practicality into everything... it's simply great",
-        student: "Divyam Khorwal | Faith Academy",
+        student: "Divyam Khorwal <br/> Faith Academy",
 
     },
     {
         img: "Rahul Arora.jpg",
         txt: "Meenu ma'am is an excellent teacher. I joined Forward Education in 11th and both me and my sister, CA Sanya Arora consider Meenu Ma'am as the best teacher for Accounts. She is an experienced teacher who focuses on conceptual clarity. I will always be thankful to her for supporting and guiding me throughout.",
-        student: "Rahul Arora | GD Goenka Public School",
+        student: "Rahul Arora <br/> GD Goenka Public School",
 
     },
     {
         img: "Vriti Bhalla.png",
         txt: "Meenu ma'am is the best teacher I know. She is so hard working and always ready to help and clear doubts of students. Her classes are very interactive. Regular tests assess your performance. Blessed to have her",
-        student: "Vriti Bhalla | Hans Raj Model School",
+        student: "Vriti Bhalla <br/> Hans Raj Model School",
 
     },
 
     {
         img: "Sanya Arora.jpg",
         txt: "I got the opportunity to study from Meenu ma’am for the 2 most important foundation years of my life – Class 11 and 12. She made me fall in love with Commerce subjects and inspired me to pursue them as my profession and become a Chartered Accountant. She made the subject seem so smooth by preparing us with the concepts and helped us crack questions of all kinds. I’ll always be thankful to Forward Education and Meenu ma’am for guiding and supporting me throughout. You make your students’ lives so easy with your hard work and perseverance.",
-        student: "Sanya Arora | Delhi Public School R.K. Puram",
+        student: "Sanya Arora <br/> Delhi Public School R.K. Puram",
 
     },
     {
         img: "Kanshika Nagpal.jpg",
         txt: "Her unique method of teaching is what makes her different from other tuition teachers, she's the perfect example of a hardworking teacher. Her efforts for all her students are commendable.",
-        student: "Kanshika Nagpal | Doon Public School",
+        student: "Kanshika Nagpal <br/> Doon Public School",
 
     },
     {
         img: "Smriti Setya.png",
         txt: "Meenu ma'am is an incredible and fantabulous teacher and she is not only a teacher but also our true friend, mentor, support system. Her teaching methodology and pedagogy is very unique as she emphasizes on logic, reasoning and conceptual clarity rather than cramming the concepts. She made us fall in love with difficult subject like Accountancy. She taught us time management and organisational skills and her wonderful notes, individual attention and ample test series made us score really well in our examinations. I enrolled in Forward Education in 12th standard and the entire session was online due to the Covid-19 pandemic but her zest, dedication, devotion, efforts and interactive online sessions made the subjects very interesting and a cakewalk for all of us. Hats off to the teacher. Do enrol yourself at Forward Education for a wonderful experience.",
-        student: "Smriti Setya | Indraprastha World School",
+        student: "Smriti Setya <br/> Indraprastha World School",
 
     },
 
