@@ -33,6 +33,15 @@ export const Subject = () => {
                         <p className='font-molengo pb-5 px'><strong>CBSE Class XII Economics</strong> is comprised of Introductory Macroeconomics - National Income and Related Aggregates, Money and Banking, Determination of Income and Employment, Government Budget and the Economy, Balance of Payments and Indian Economic Development - Development Experience (1947-90) and Economic Reforms since 1991, Current Challenges facing Indian Economy and Development Experience of India – A Comparison with Neighbours.</p>
                     </div>
                 </div>
+
+                <div className='border border-gray-200'>
+                    <Image width={600} height={500} src="/images/maths.jpg" alt="" />
+                    <div className='md:px-4 px-2'>
+                        <h3 className='text-2xl font-bold font-kanit text-slate-700 my-5 '>Mathematics</h3>
+                        <p className='font-molengo pb-5 '><strong>CBSE Class XI Mathematics</strong> syllabus comprises of Sets, Relations and Functions, Trigonometric Functions, Principle of Mathematical Induction, Complex Numbers and Quadratic Equations, Linear Inequalities, Permutations and Combinations, Binomial Theorem, Sequences and Series, Straight Lines, Conic Sections and Introduction to Three-dimensional Geometry. It also covers  Limits and Derivatives, Statistics and Probability.</p>
+                        <p className='font-molengo pb-5 '><strong>CBSE Class XII Mathematics</strong> is comprised of Relations and Functions, Inverse Trigonometric Functions, Matrices, Determinants, Continuity and Differentiability, Applications of Derivatives, Integrals, Applications of the Integrals, Differential Equations, Vectors, 3D Geometry, Linear Programming and Probability.</p>
+                    </div>
+                </div>
             </div>
         </section>
     )
