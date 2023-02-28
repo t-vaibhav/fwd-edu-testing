@@ -10,20 +10,21 @@ const contact = () => {
             <Navbar />
             <div>
 
-    <div className=" w-full min-h-[80vh] pt-28 relative py-28 bg-cover mainContact"   >
-
-  
+    <div className=" w-full min-h-[80vh]  pt-28 relative    md:bg-cover "   >
+        <Image src="https://media.istockphoto.com/id/1335509326/photo/light-pink-and-blue-defocused-blurred-motion-abstract-background.jpg?s=612x612&w=0&k=20&c=KxoOERQPUuqzsWXJLVN11EQ0iPkwl9ixUAICGaT1qwU=" alt = "bg" fill={true} className="-z-20 object-fill"/>
 
         <div className="justify-center  items-center  flex flex-col md:flex-row md:h-[80vh] ">
             <div className="md:mr-20 md:w-[40%] md:ml-16 px-5 ">
 
                 <h1 className="pt-12 font-extrabold text-2xl lg:text-4xl text-black shadow-graytext-gray-100 font-kanit">We are here to Help!</h1>
-                <p className=" text-lg lg:text-2xl shadow-graytext-gray-100 text-black font-molengo py-5 font-bold">We understand that you may have questions or concerns about our services, and we want to make it as easy as possible for you to get in touch with us.
+                <p className=" text-lg lg:text-2xl shadow-graytext-gray-100 text-black font-molengo py-5 font-bold">We believe in the power of communication, and we&apos;re always eager to hear from our students, parents, and well-wishers. Whether you have a question, or feedback, we appreciate your interest in Forward Education and encourage you to reach out to us.
+                <br/>
+                <br/>
 
-                    Please feel free to use our Contact Us section to send us a message. We strive to respond promptly to all inquiries and will do our best to address your needs and concerns. Our team of web developers is highly skilled and experienced, and we are committed to delivering quality results that exceed your expectations.</p>
+                Thank you for considering Forward Education for your coaching needs. We look forward to hearing from you and providing the best educational experience possible. Please don&apos;t hesitate to contact us, and we&apos;ll be more than happy to assist you in any way we can.</p>
             </div>
 
-            <div className="lg:w-[30%] lg:h-[80%] md:w-[40%] md:mt-10 lg:mt-0 bg-gray-100 p-10 shadow-2xl rounded-lg md:transition ease-in-out hover:scale-95 duration-700 md:mr-16">
+            <div className="lg:w-[30%] lg:h-[80%] md:w-[40%] md:mt-10 lg:mt-0 bg-gray-100 p-7 shadow-2xl rounded-lg md:transition ease-in-out hover:scale-95 duration-700 md:mr-16 m-6">
                 <h5 className="text-center font-extrabold text-3xl font-kanit">Contact Us</h5>
                 <Script src="https://cdn.lordicon.com/ritcuqlt.js"></Script>
 
@@ -50,8 +51,8 @@ const contact = () => {
                 <div className="flex mt-8">
                     <div className="w-20 h-20">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" >
-                        <path strokeLineCap="round" strokelLineJoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
-                        <path strokeLineCap="round" strokelLineJoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
                     </svg>
 
                     </div>
@@ -80,7 +81,6 @@ const contact = () => {
             </div>
         </div>
     </div>
-
 
 
 </div>
