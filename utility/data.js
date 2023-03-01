@@ -123,6 +123,12 @@ export const parentReviews = [
         txt: "My son has been studying Accounts under the  guidance of Meenu Sethi ma’am. I thank her for being a great mentor and an absolutely wonderful teacher, not just to my son but to all her students. When children enter this crucial year of class 12th, a lot of anxieties settle in as a parent, especially when the pandemic has struck us. But thankfully, we didn’t have to worry as Meenu ma’am continued her classes online and the transition was so smooth, it never felt like my child was missing out on anything. Her ability to get the students to work together and motivate them makes her fabulous.",
         parent: 'Mrs. Rashmi Kohli <br/> Mother Of Maahir Kohli <br/> St Marks, Meera Bagh',
     },
+    {
+        img: 'meghana.jpg',
+        txt: "In the past few months,I have had the privilege and good fortune to get to know Meenu maam,both professionally and personally. Her commitment to her work and students, her passion for teaching and above all,her integrity and high standards she sets for herself as a human being inspires me so much! I do not say this very easily for anyone and I say this for Meenu maam- If you are a parent looking for a teacher for the above subjects, do not think twice! Meenu mam will ensure the best for them.😇 P.S. She loves to read and she is also a very creative person- her art work is astounding! I can't forget the bookmarks you made for all children in one of my sessions ma'am. Thank you for being who you are! Thank you for all the wonderful work you do.",
+
+        parent: 'Ms. Meghana <br/> Certified Storyteller, Kathalaya Internationall Academy of Storytelling',
+    },
 
 
 
