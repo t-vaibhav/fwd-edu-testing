@@ -37,7 +37,7 @@ export const Gallery = () => {
     return (
         <section className='bg-gradient-to-r from-green-50 to-white'>
             <div className=' mt-20 pt-20 px-5 md:px-0 max-w-5xl mx-auto'>
-            <Heading heading='OUR CHERISHED MEMORIES' subHeading='GALLERY' />
+                <Heading heading='OUR CHERISHED MEMORIES' subHeading='GALLERY' />
 
             </div>
 
