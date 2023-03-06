@@ -219,24 +219,147 @@ export const resultsList = [
     {
         heading: "Results for 2019-20",
         img: "https://media.istockphoto.com/id/1307098713/photo/close-up-white-paper-desk-calendar-with-blurred-bokeh-background-appointment-and-business.jpg?s=612x612&w=0&k=20&c=a3ZK7sXFXjUxPUANyM2dVYiSnIdfkO7f49AMiQdH6z0=",
-        pdfLink: "2019-2020res.pdf"
+        pdfLink: "2019-2020res_copy.pdf"
     },
     {
         heading: "Accountancy Result for Past 10 Years",
         img: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZmluYW5jZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        pdfLink: "CombinedAccountancy.pdf"
+        pdfLink: "CombinedAccountancy_copy.pdf"
     },
     {
         heading: "Bussiness Studies Result for Past 10 Years",
         img: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YnVzc2luZXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        pdfLink: "CombinedBusiness.pdf"
+        pdfLink: "CombinedBusiness_copy.pdf"
     },
     {
         heading: "Economics Result for Past 10 Years",
         img: "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZWNvbm9teXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        pdfLink: "CombinedEco.pdf"
+        pdfLink: "CombinedEco_copy.pdf"
     },
 
 
+
+]
+
+export const topperResult = [
+    {
+        img: 'she.jpg',
+        subject: 'Economics',
+        marks: '99',
+        name: 'MRINALINI ARORA',
+        sname: 'Springdales School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'B. Studies',
+        marks: '98',
+        name: 'JAHNAVI JINDAL',
+        sname: 'Vishal Bharti School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'B. Studies',
+        marks: '98',
+        name: 'MRINALINI ARORA',
+        sname: 'Springdales School',
+    },
+    {
+        img: 'he.jpg',
+        subject: 'Accountacy',
+        marks: '98',
+        name: 'VAIBHAV SETH',
+        sname: 'Mount St. Mary School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'Accountacy',
+        marks: '98',
+        name: 'VANSHIKA',
+        sname: 'N. C. Jindal School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'Economics',
+        marks: '97',
+        name: 'JAHNAVI JINDAL',
+        sname: 'Vishal Bharti School',
+    },
+    {
+        img: 'he.jpg',
+        subject: 'Accountancy',
+        marks: '97',
+        name: 'KRISH SETH',
+        sname: 'Indraprastha World School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'Accountancy',
+        marks: '96',
+        name: 'ANSHIKA SHARMA',
+        sname: 'Apeejay School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'Accountancy',
+        marks: '96',
+        name: 'JAHNAVI JINDAL',
+        sname: 'Vishal Bharti School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'Accountancy',
+        marks: '96',
+        name: 'MRINALINI ARORA',
+        sname: 'Springdales School',
+    },
+    {
+        img: 'he.jpg',
+        subject: 'B. Studies',
+        marks: '95',
+        name: 'KAARTIK CHUGH',
+        sname: 'St. Marks School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'Accountancy',
+        marks: '95',
+        name: 'KASHISH OBEROI',
+        sname: 'Holy Child School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'B. Studies',
+        marks: '95',
+        name: 'NANDINI KAPOOR',
+        sname: 'Bhatnagar International School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'Economics',
+        marks: '95',
+        name: 'NANDINI KAPOOR',
+        sname: 'Bhatnagar International School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'Accountancy',
+        marks: '95',
+        name: 'RIDHI GUPTA',
+        sname: 'Indraprastha World School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'Accountancy',
+        marks: '95',
+        name: 'SHREYA GARG',
+        sname: 'Apeejay School',
+    },
+    {
+        img: 'she.jpg',
+        subject: 'Accountancy',
+        marks: '95',
+        name: 'TANISHA',
+        sname: 'Mother Divine School',
+    },
 
 ]
