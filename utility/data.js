@@ -714,7 +714,7 @@ export const topperResult = [
 
 
 
-    {
+    , {
         img: 'she.jpg',
         subject: 'Economics',
         marks: '99',
