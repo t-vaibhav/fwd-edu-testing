@@ -12,7 +12,7 @@ const Hero = () => {
         <section className='bg-no-repeat bg-center bg-cover bg-blend-overlay bg-black/50 flex items-center justify-center' style={mystyle} >
 
             <div className='max-w-screen-lg flex-col text-start mr-auto relative mx-auto p-5 font-kanit tracking-wider text-xl  text-white pt-28 lg:text-2xl'>
-                <h1 className='text-3xl lg:text-5xl pb-2 font-bold'>A jouney of teaching</h1>
+                <h1 className='text-3xl lg:text-5xl pb-2 font-bold'>A journey of teaching</h1>
                 <h1 className='text-3xl lg:text-5xl pb-2 font-bold'>A journey of learning</h1>
 
 
