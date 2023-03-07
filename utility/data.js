@@ -102,6 +102,20 @@ export const studentReviews = [
 ]
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 export const parentReviews = [
     {
         img: 'Mr. Jogesh Verma.jpg',
@@ -135,6 +149,22 @@ export const parentReviews = [
 ]
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 export const sectionData = [
     {
         number: 2500,
@@ -158,6 +188,24 @@ export const sectionData = [
     },
 
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 export const galleryIndex = [
@@ -215,6 +263,25 @@ export const galleryIndex = [
 ]
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 export const resultsList = [
     {
         heading: "Results for 2019-20",
@@ -240,6 +307,28 @@ export const resultsList = [
 
 
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 export const topperResult = [
     {
@@ -598,7 +687,7 @@ export const topperResult = [
         marks: '95',
         name: 'KRITI SETHI',
         sname: 'Maxfort School',
-    },
+    }
 
 
 
