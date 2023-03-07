@@ -13,18 +13,21 @@ const contact = () => {
                 <div className=" w-full min-h-[80vh]  pt-28 relative     "   >
                     <Image src="https://media.istockphoto.com/id/1335509326/photo/light-pink-and-blue-defocused-blurred-motion-abstract-background.jpg?s=612x612&w=0&k=20&c=KxoOERQPUuqzsWXJLVN11EQ0iPkwl9ixUAICGaT1qwU=" alt="bg" fill={true} className="-z-20 object-fill" />
 
-                    <div className="justify-center  items-center  flex flex-col md:flex-row md:h-[80vh] ">
-                        <div className="md:mr-20 md:w-[40%] md:ml-16 px-5 ">
+                    <div className="justify-center  items-center  flex flex-col-reverse lg:flex-row-reverse lg:h-[90vh] lg:mx-16">
+                        <div className="md:mr-2 md:w-[85%] md:ml-1 px-5 ">
 
                             <h1 className="pt-12 font-extrabold text-2xl lg:text-4xl text-black shadow-graytext-gray-100 font-kanit">We are here to Help!</h1>
-                            <p className=" text-lg lg:text-2xl shadow-graytext-gray-100 text-black font-molengo py-5 font-bold">We believe in the power of communication, and we&apos;re always eager to hear from our students, parents, and well-wishers. Whether you have a question, or feedback, we appreciate your interest in Forward Education and encourage you to reach out to us.
+                            <p className=" text-lg lg:text-2xl shadow-graytext-gray-100 text-black font-molengo py-5 font-bold">We are here to Help!
+                                We believe in the power of communication, and we're always eager to hear from our students, parents and well-wishers. Whether it's a question, feedback or enrolment, we appreciate it and encourage you to reach out to us.
+
+
                                 <br />
                                 <br />
 
-                                Thank you for considering Forward Education for your coaching needs. We look forward to hearing from you and providing the best educational experience possible. Please don&apos;t hesitate to contact us, and we&apos;ll be more than happy to assist you in any way we can.</p>
+                                Thank you for considering Forward Education for your academic needs. We look forward to hearing from you and providing the best educational experience possible.</p>
                         </div>
 
-                        <div className="lg:w-[30%] lg:h-[80%] md:w-[40%] md:mt-10 lg:mt-0 bg-gray-100 p-7 shadow-2xl rounded-lg md:transition ease-in-out hover:scale-95 duration-700 md:mr-16 m-6">
+                        <div className="lg:w-[35%] lg:h-[85%] md:w-[85%] md:mt-10 lg:mt-0 lg:mx-10 bg-gray-100 p-7 shadow-2xl rounded-lg md:transition ease-in-out hover:scale-95 duration-700 md:mr-16 m-6">
                             <h5 className="text-center font-extrabold text-3xl font-kanit">Contact Us</h5>
                             <Script src="https://cdn.lordicon.com/ritcuqlt.js"></Script>
 
