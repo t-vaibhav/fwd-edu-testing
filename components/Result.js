@@ -2,7 +2,7 @@
 import React from 'react'
 import Image from 'next/image'
 import Heading from '@/components/Heading'
-import { topperResult } from '@/utility/data'
+import { topperResults } from '@/utility/data'
 import { resultsList } from '@/utility/data'
 import Link from 'next/link'
 
@@ -16,7 +16,7 @@ export const Result = () => {
 
                 <Heading heading='Our Esteemed Results' subHeading='OUR TOP SCORERS' />
                 <div className='grid lg:grid-cols-4 gap-4 md:grid-cols-3 sm:grid-cols-2 pb-32 text-gray-800'>
-                    {topperResult.map((item, index) => {
+                    {topperResults.map((item, index) => {
                         const path = `url('/images/results/${item.img}')`
                         const mystyle = {
                             backgroundImage: path,
@@ -26,10 +26,22 @@ export const Result = () => {
 
                             <div key={index} className='mx-2 mb-6 shadow-xl rounded-md '>
                                 <div className='text-white text-sm text-center font-kanit '>
-                                    <div className='bg-no-repeat bg-center bg-cover bg-blend-overlay rounded-lg' style={mystyle}>
-                                        <div className='relative top-[40vh]  mx-10 py-[2px] bg-black/80 rounded-md'>
-                                            {item.subject} - {item.marks}/100
+                                    <div className='bg-no-repeat bg-center bg-cover bg-blend-overlay rounded-lg relative' style={mystyle}>
+                                        <div key={index} className='absolute grid  bottom-1 w-full text-center justify-center items-center '>
+                                            {item.subject.map((sub, index) => {
+                                                return (
+                                                    <div className='bg-black/80 rounded-md my-px  px-3 py-1  text-sm' key={index}>{sub} - {item.marks[index]}/100</div>
+
+                                                )
+                                            })
+
+                                            }
                                         </div>
+
+                                        {/* <div className='relative top-[40vh]  mx-10 py-[2px] bg-black/80 rounded-md'>
+                                            {item.subject} - {item.marks}/100
+                                        </div> */}
+
                                     </div>
                                 </div>
                                 <div className='text-center text-2xl font-kanit font-bold py-2'>
