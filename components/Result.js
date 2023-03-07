@@ -14,7 +14,7 @@ export const Result = () => {
         <div className='bg-gradient-to-r from-green-50 to-white'>
             <section className='max-w-screen-lg ml-auto mr-auto  pt-28 pb-12 px-2'>
 
-                <Heading heading='Our Esteemed Results' subHeading='LAST YEAR RESULTS' />
+                <Heading heading='Our Esteemed Results' subHeading='OUR TOP SCORERS' />
                 <div className='grid lg:grid-cols-4 gap-4 md:grid-cols-3 sm:grid-cols-2 pb-32 text-gray-800'>
                     {topperResult.map((item, index) => {
                         const path = `url('/images/results/${item.img}')`
@@ -46,7 +46,7 @@ export const Result = () => {
                 </div>
 
 
-                <Heading heading='Our Esteemed Results' subHeading='PREVIOUS YEAR RESULTS' />
+                <Heading heading='Our Esteemed Results' subHeading='HALL OF FAME' />
                 <div className="grid md:grid-cols-2 max-w-5xl mx-auto gap-4 md:gap-10 pt-3 py-10">
 
                     {resultsList.map((item, index) => {
