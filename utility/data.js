@@ -143,6 +143,11 @@ export const parentReviews = [
 
         parent: 'Ms. Meghana <br/> Certified Storyteller, Kathalaya Internationall Academy of Storytelling',
     },
+    {
+        img: 'Rajendra Pal.jpeg',
+        txt: "We reside at Rajouri Garden and though Paschim Vihar is quite a distance from our place, I sent two of my grandchildren – Snigdha and Yajan to Forward Education for coaching in Accounts, Economics and Business Studies and I am really glad I did, for both of them scored 95 percent marks or above in all the three subjects. I was impressed by the thoroughness of Meenu Ma'am's teaching, her clarity of concepts and the manner in which she taught them and the friendly guidance she gave. Her smart-class teaching and the use of slides make her teaching systematic and efficient and save children's time. She is unique, for she offers teaching with a personal touch.",
+        parent: 'Rajendra Pal <br/> Formerly, Associate Professor of English <br/> Hansraj College, Delhi University',
+    },
 
 
 
