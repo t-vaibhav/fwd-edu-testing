@@ -337,7 +337,7 @@ export const resultsList = [
 
 export const topperResult = [
     {
-        img: 'picture1.png',
+        img: 'picture1',
         subject: 'Accountacy',
         marks: '100',
         name: 'PAYASVINI GUPTA',
