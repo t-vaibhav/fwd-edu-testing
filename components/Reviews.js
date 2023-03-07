@@ -6,7 +6,7 @@ export const Reviews = () => {
     const studentReviewsCard = studentReviews.map((review, index) => {
 
         return (
-            <div className='sm:flex items-center justify-center my-20 max-w-screen-[40vh] px-2'>
+            <div className='sm:flex items-center justify-center my-20 max-w-screen-[40vh] px-2' key={index}>
                 <div className='sm:mr-12 flex justify-center'>
                     <Image src={`/images/reviews/${review.img}`} className=' rounded-md sm:h-[120px] sm:max-w-[110px] h-[200px] max-w-[175px] mb-4 sm:mb-0' width={600} height={600} alt={review.student} />
                 </div>
@@ -30,7 +30,7 @@ export const Reviews = () => {
     const parentReviewsCard = parentReviews.map((review, index) => {
         return (
             <>
-                <div className='flex  items-center my-20'>
+                <div className='flex  items-center my-20' key={index}>
                     <div className='mr-12'>
                         <Image src={`/images/reviews/${review.img}`} className=' rounded-md h-[120px] max-w-[110px]' width={600} height={600} alt={review.parent} />
                     </div>
