@@ -20,13 +20,13 @@ export const Result = () => {
                         const path = `url('/images/results/${item.img}')`
                         const mystyle = {
                             backgroundImage: path,
-                            height: "45vh"
+                            
                         }
                         return (
 
                             <div key={index} className='mx-2 mb-6 shadow-xl rounded-md '>
                                 <div className='text-white text-sm text-center font-kanit '>
-                                    <div className='bg-no-repeat bg-center bg-cover bg-blend-overlay rounded-lg relative' style={mystyle}>
+                                    <div className='bg-no-repeat bg-center h-[45vh] md:h-[30vh] bg-cover bg-blend-overlay rounded-lg relative' style={mystyle}>
                                         <div key={index} className='absolute grid  bottom-1 w-full text-center justify-center items-center '>
                                             {item.subject.map((sub, index) => {
                                                 return (
