@@ -55,7 +55,7 @@ const contact = () => {
                                 <p className="font-semibold text-lg font-molengo">9810763856</p>
                             </div>
 
-                            <div className="flex mt-6">
+                            <div className="flex  mt-6">
                                 <div className="w-20 h-20">
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" >
                                         <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
