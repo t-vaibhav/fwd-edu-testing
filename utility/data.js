@@ -7,7 +7,7 @@ export const studentReviews = [
     {
         img: "Aakriti Arora.jpg",
         txt: "Having studied at Forward Education for 2 years, I can proudly say that Meenu ma’am’s dedication and guidance are unmatchable. She ensured that our base concepts were strong. Her regular tests, doubt sessions and persistence made all subjects a cakewalk. Her notes are an incredibly useful asset, and they are useful even for college exams. I doubt there is a better teacher who can teach the Commerce subjects with such ease and perfection.",
-        student: "Aakriti Arora <br/> New Era Public School",
+        student: "Ati Arora <br/> New Era Public School",
     },
 
     {
@@ -275,7 +275,7 @@ export const topperResults = [
         sname: "Hansraj School",
     },
     {
-        img: "Picture4.jpg",
+        img: "Akshat.png",
         subject: ["Accountacy", "Economics"],
         marks: ["98", "95"],
         name: "AKSHAT BANSAL",
@@ -366,7 +366,7 @@ export const topperResults = [
         sname: "Delhi Publi School( M. Road)",
     },
     {
-        img: "Picture8.jpg",
+        img: "Mehak.png",
         subject: ["Accountacy"],
         marks: ["96"],
         name: "MEHAK GULATI",
@@ -401,7 +401,7 @@ export const topperResults = [
         sname: "St. Martin School",
     },
     {
-        img: "Picture11.jpg",
+        img: "Snigdha.png",
         subject: ["Accountacy", "Economics", "B. Studies"],
         marks: ["95", "95", "95"],
         name: "SNIGDHA BUDDHIRAJA",
