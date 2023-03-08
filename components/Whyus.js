@@ -16,7 +16,7 @@ export const Whyus = () => {
                     <h2 className='text-3xl font-bold font-kanit text-white'>Why choose FORWARD EDUCATION? </h2>
                     <br />
                     <p className='text-white font-molengo'>
-                        FORWARD EDUCATION has developed a <span> <b>unique philosophy</b> </span>  of coaching, which focus on methods that avoid the necessity for mugging up in order to stimulate students' intellects, allowing them to face examinations confidently and succeed with flying colours.
+                        FORWARD EDUCATION has developed a <span> <b>unique philosophy</b> </span>  of coaching, which focus on methods that avoid the necessity for mugging up in order to stimulate student&apos;s intellects, allowing them to face examinations confidently and succeed with flying colours.
                     </p>
                 </div>
                 <div className='grid md:grid-cols-3 md:grid-rows-1 grid-rows-3  px-1'>
