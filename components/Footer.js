@@ -15,9 +15,9 @@ export const Footer = () => {
                     <div >
                         <h2 className='font-kanit text-3xl text-gray-700'>FORWARD EDUCATION</h2>
                         <ul className='list-disc space-y-3 pt-3 ml-3 md:ml-1'>
-                        <li className='pb-6 sm:pb-1 font-molengo text-gray-500 md:max-w-[300px] max-w-[350px]'>
-                            T-2, Ansal Utility Complex, Near Jwala Heri Haldiram, Paschim Vihar, New Delhi - 110063</li>
-                        <li className='pb-6  font-molengo text-gray-500 md:max-w-[300px] max-w-[350px]'>CSP Tower 1, Unit no. 1101, 1st Floor, DLF Capital Greens, Shivaji Marg, Near Moti Nagar,<br/> New Delhi - 110015</li>
+                            <li className='pb-6 sm:pb-1 font-molengo text-gray-500 md:max-w-[300px] max-w-[350px]'>
+                                T-2, Ansal Utility Complex, Near Jwala Heri Haldiram, Paschim Vihar, New Delhi - 110063</li>
+                            <li className='pb-6  font-molengo text-gray-500 md:max-w-[300px] max-w-[350px]'>CSP Tower 1, Unit no. 1101, 1st Floor, DLF Capital Greens, Shivaji Marg, Near Moti Nagar,<br /> New Delhi - 110015</li>
                         </ul>
                     </div>
 
@@ -80,11 +80,11 @@ export const Footer = () => {
                     </div>
 
                     <div className='flex items-center justify-center sm:inline space-x-5 pt-5 md:pt-0'>
-                        <Link href="https://instagram.com/meenu.sethii" legacyBehavior><a href="https://instagram.com/meenu.sethii" target="_blank" rel="noreferrer"><img className='h-12 inline' src="https://img.icons8.com/color/48/null/instagram-new--v1.png"/></a></Link>
+                        <Link href="https://instagram.com/meenu.sethii" legacyBehavior><a href="https://instagram.com/meenu.sethii" target="_blank" rel="noreferrer"><img className='h-12 inline' src="https://img.icons8.com/color/48/null/instagram-new--v1.png" /></a></Link>
 
-                        <Link href="https://www.google.co.in/search?q=forward+education&sxsrf=AJOqlzXFbGQ90sxRRSWx7l-vkh9iu0NwYg%3A1677514791565&source=hp&ei=J9j8Y8-0H525seMPppOMkAU&iflsig=AK50M_UAAAAAY_zmNz0dkzePr-5HeLIT55ofTViBGURH&gs_ssp=eJzj4tVP1zc0LCzKy8gzNjQzYLRSNagwtjRIMTBOMTRJTjYysLRIsTKoMDcxSbIwNUlNNjQwMjcwtvASTMsvKk8sSlFITSlNTizJzM8DAN_lFT4&oq=for&gs_lcp=Cgdnd3Mtd2l6EAEYADIKCC4QxwEQrwEQJzIFCAAQkQIyBQgAEJECMgQIABBDMgQIABBDMgsIABCABBCxAxDJAzIICAAQsQMQgwEyCAgAEIAEELEDMggIABCxAxCDATIOCC4QxwEQsQMQ0QMQgAQ6BAgjECc6EQguELEDEIMBEMcBENEDEJECOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6BQgAEIAEUABY6wVgtw5oAHAAeACAAbgCiAHrBJIBBzAuMi4wLjGYAQCgAQE&sclient=gws-wiz" legacyBehavior><a href="https://www.google.co.in/search?q=forward+education&sxsrf=AJOqlzXFbGQ90sxRRSWx7l-vkh9iu0NwYg%3A1677514791565&source=hp&ei=J9j8Y8-0H525seMPppOMkAU&iflsig=AK50M_UAAAAAY_zmNz0dkzePr-5HeLIT55ofTViBGURH&gs_ssp=eJzj4tVP1zc0LCzKy8gzNjQzYLRSNagwtjRIMTBOMTRJTjYysLRIsTKoMDcxSbIwNUlNNjQwMjcwtvASTMsvKk8sSlFITSlNTizJzM8DAN_lFT4&oq=for&gs_lcp=Cgdnd3Mtd2l6EAEYADIKCC4QxwEQrwEQJzIFCAAQkQIyBQgAEJECMgQIABBDMgQIABBDMgsIABCABBCxAxDJAzIICAAQsQMQgwEyCAgAEIAEELEDMggIABCxAxCDATIOCC4QxwEQsQMQ0QMQgAQ6BAgjECc6EQguELEDEIMBEMcBENEDEJECOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6BQgAEIAEUABY6wVgtw5oAHAAeACAAbgCiAHrBJIBBzAuMi4wLjGYAQCgAQE&sclient=gws-wiz" target="_blank" rel="noreferrer"><img className='h-12 inline' src="https://img.icons8.com/color/48/null/google-logo.png"/></a></Link>
+                        <Link href="https://www.google.co.in/search?q=forward+education&sxsrf=AJOqlzXFbGQ90sxRRSWx7l-vkh9iu0NwYg%3A1677514791565&source=hp&ei=J9j8Y8-0H525seMPppOMkAU&iflsig=AK50M_UAAAAAY_zmNz0dkzePr-5HeLIT55ofTViBGURH&gs_ssp=eJzj4tVP1zc0LCzKy8gzNjQzYLRSNagwtjRIMTBOMTRJTjYysLRIsTKoMDcxSbIwNUlNNjQwMjcwtvASTMsvKk8sSlFITSlNTizJzM8DAN_lFT4&oq=for&gs_lcp=Cgdnd3Mtd2l6EAEYADIKCC4QxwEQrwEQJzIFCAAQkQIyBQgAEJECMgQIABBDMgQIABBDMgsIABCABBCxAxDJAzIICAAQsQMQgwEyCAgAEIAEELEDMggIABCxAxCDATIOCC4QxwEQsQMQ0QMQgAQ6BAgjECc6EQguELEDEIMBEMcBENEDEJECOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6BQgAEIAEUABY6wVgtw5oAHAAeACAAbgCiAHrBJIBBzAuMi4wLjGYAQCgAQE&sclient=gws-wiz" legacyBehavior><a href="https://www.google.co.in/search?q=forward+education&sxsrf=AJOqlzXFbGQ90sxRRSWx7l-vkh9iu0NwYg%3A1677514791565&source=hp&ei=J9j8Y8-0H525seMPppOMkAU&iflsig=AK50M_UAAAAAY_zmNz0dkzePr-5HeLIT55ofTViBGURH&gs_ssp=eJzj4tVP1zc0LCzKy8gzNjQzYLRSNagwtjRIMTBOMTRJTjYysLRIsTKoMDcxSbIwNUlNNjQwMjcwtvASTMsvKk8sSlFITSlNTizJzM8DAN_lFT4&oq=for&gs_lcp=Cgdnd3Mtd2l6EAEYADIKCC4QxwEQrwEQJzIFCAAQkQIyBQgAEJECMgQIABBDMgQIABBDMgsIABCABBCxAxDJAzIICAAQsQMQgwEyCAgAEIAEELEDMggIABCxAxCDATIOCC4QxwEQsQMQ0QMQgAQ6BAgjECc6EQguELEDEIMBEMcBENEDEJECOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6BQgAEIAEUABY6wVgtw5oAHAAeACAAbgCiAHrBJIBBzAuMi4wLjGYAQCgAQE&sclient=gws-wiz" target="_blank" rel="noreferrer"><img className='h-12 inline' src="https://img.icons8.com/color/48/null/google-logo.png" /></a></Link>
 
-                        <Link href="https://api.whatsapp.com/send?phone=919810763856" legacyBehavior><a href="https://api.whatsapp.com/send?phone=919810763856" target="_blank" rel="noreferrer"><img className='h-12 inline' src="https://img.icons8.com/color/90/null/whatsapp--v1.png"/></a></Link>
+                        <Link href="https://api.whatsapp.com/send?phone=919810763856" legacyBehavior><a href="https://api.whatsapp.com/send?phone=919810763856" target="_blank" rel="noreferrer"><img className='h-12 inline' src="https://img.icons8.com/color/90/null/whatsapp--v1.png" /></a></Link>
                     </div>
                 </div>
             </div>

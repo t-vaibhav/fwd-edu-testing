@@ -11,7 +11,7 @@ export const studentReviews = [
     },
 
     {
-        img: "Maanya Bajaj.png",
+        img: "Manya Bajaj.jpg",
         txt: "Learning from Meenu ma’am is an enriching experience. I have thoroughly enjoyed this academic journey. As a humanities student, earlier I used to struggle with concepts of economics but with ma’am’s support and guidance I now count it as one of my top subjects. The classes enhanced my academic ability and gave me many insightful lessons. It was amazing to embark on such a beautiful journey with Forward Education.",
         student: "Maanya Bajaj <br/> The Heritage School",
     },
@@ -31,7 +31,7 @@ export const studentReviews = [
         student: "Prachi Jain <br/> Indraprastha World School",
     },
     {
-        img: "Venika Sikka.png",
+        img: "Venika Sikka.jpg",
         txt: "Meenu ma'am's methods of teaching are simply remarkable! She makes everything easy and understandable for all. Highly recommend for sound conceptual learning!",
         student: "Venika Sikka <br/> Hans Raj Model School",
     },
@@ -61,7 +61,7 @@ export const studentReviews = [
         student: "Rahul Arora <br/> GD Goenka Public School",
     },
     {
-        img: "Vriti Bhalla.png",
+        img: "Vriti Bhalla .jpg",
         txt: "Meenu ma'am is the best teacher I know. She is so hard working and always ready to help and clear doubts of students. Her classes are very interactive. Regular tests assess your performance. Blessed to have her",
         student: "Vriti Bhalla <br/> Hans Raj Model School",
     },
@@ -115,10 +115,10 @@ export const parentReviews = [
     },
     {
         img: "meghana.jpg",
-        txt: "In the past few months,I have had the privilege and good fortune to get to know Meenu maam,both professionally and personally. Her commitment to her work and students, her passion for teaching and above all,her integrity and high standards she sets for herself as a human being inspires me so much! I do not say this very easily for anyone and I say this for Meenu maam- If you are a parent looking for a teacher for the above subjects, do not think twice! Meenu mam will ensure the best for them.😇 P.S. She loves to read and she is also a very creative person- her art work is astounding! I can't forget the bookmarks you made for all children in one of my sessions ma'am. Thank you for being who you are! Thank you for all the wonderful work you do.",
+        txt: "In the past few months, I have had the privilege and good fortune to get to know Meenu ma'am, both professionally and personally. Her commitment to her work and students, her passion for teaching and above all, her integrity and high standards she sets for herself as a human being inspire me so much! I do not say this very easily for anyone and I say this for Meenu ma'am - if you are a parent looking for a teacher for the above subjects, do not think twice! Meenu mam will ensure the best for your kids. P.S. She loves to read and she is also a very creative person- her art work is astounding! Thank you for being who you are! Thank you for all the wonderful work you do.",
 
         parent:
-            "Ms. Meghana <br/> Certified Storyteller, Kathalaya Internationall Academy of Storytelling",
+            "Ms. Meghana <br/> Certified Storyteller, Kathalaya International Academy of Storytelling",
     },
 ];
 
@@ -267,13 +267,13 @@ export const topperResults = [
         name: "RISHABH KALRA",
         sname: "Springdales School",
     },
-    {
-        img: "Picture3.jpg",
-        subject: ["Accountacy", "Economics"],
-        marks: ["99", "98"],
-        name: "KRITI MEHRA",
-        sname: "Hansraj School",
-    },
+    // {
+    //     img: "Picture3.jpg",
+    //     subject: ["Accountacy", "Economics"],
+    //     marks: ["99", "98"],
+    //     name: "KRITI MEHRA",
+    //     sname: "Hansraj School",
+    // },
     {
         img: "Akshat.png",
         subject: ["Accountacy", "Economics"],
@@ -295,13 +295,13 @@ export const topperResults = [
         name: "JASRAJ MARWAH",
         sname: "Sardar Patel Vidyalaya",
     },
-    {
-        img: "Picture5.jpg",
-        subject: ["Accountacy"],
-        marks: ["97"],
-        name: "ANJALI GOEL",
-        sname: "Doon Public School",
-    },
+    // {
+    //     img: "Picture5.jpg",
+    //     subject: ["Accountacy"],
+    //     marks: ["97"],
+    //     name: "ANJALI GOEL",
+    //     sname: "Doon Public School",
+    // },
     {
         img: "Picture6.jpg",
         subject: ["Accountacy"],
@@ -359,7 +359,7 @@ export const topperResults = [
         sname: "G. D. Goenka Public School",
     },
     {
-        img: "Picture7.jpg",
+        img: "Ridhi.png",
         subject: ["Accountacy", "B. Studies"],
         marks: ["96", "95"],
         name: "RIDHI KALRA",
@@ -386,20 +386,20 @@ export const topperResults = [
         name: "LAKSHAY JAIN",
         sname: "Air Force School",
     },
-    {
-        img: "Picture9.jpg",
-        subject: ["Accountacy", "Economics"],
-        marks: ["95", "95"],
-        name: "YATIN AGGRAWAL",
-        sname: "St. Martin School",
-    },
-    {
-        img: "Picture10.jpg",
-        subject: ["Accountacy", "Economics"],
-        marks: ["95", "95"],
-        name: "SHRISHTI GUPTA",
-        sname: "St. Martin School",
-    },
+    // {
+    //     img: "Picture9.jpg",
+    //     subject: ["Accountacy", "Economics"],
+    //     marks: ["95", "95"],
+    //     name: "YATIN AGGRAWAL",
+    //     sname: "St. Martin School",
+    // },
+    // {
+    //     img: "Picture10.jpg",
+    //     subject: ["Accountacy", "Economics"],
+    //     marks: ["95", "95"],
+    //     name: "SHRISHTI GUPTA",
+    //     sname: "St. Martin School",
+    // },
     {
         img: "Snigdha.png",
         subject: ["Accountacy", "Economics", "B. Studies"],
