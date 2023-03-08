@@ -1,4 +1,6 @@
 import React from 'react'
+import Link from 'next/link'
+
 
 const Hero = () => {
     const mystyle = {
@@ -16,8 +18,9 @@ const Hero = () => {
                 <h1 className='text-3xl lg:text-5xl pb-2 font-bold'>A journey of learning</h1>
 
 
-                <h2 className='text-lg lg:text-3xl capitalize py-2'>Imparting conceptual knowledge for last 27 years</h2>
-                <h2 className='text-lg lg:text-3xl capitalize py-2 '>CA Meenu Sethi, B. Com. (Hons.) SRCC, FCA</h2>
+                <h2 className='text-lg lg:text-3xl capitalize py-1'>Imparting conceptual knowledge for last 27 years</h2>
+                <h2 className='text-lg lg:text-3xl capitalize py-1 '>CA Meenu Sethi, B. Com. (Hons.) SRCC, FCA</h2>
+                <button className=' bg-green-500 py-1 mt-2 px-4 md:px-6 text-neutral-200 rounded-sm  hover:bg-red-400 '> <Link href="https://forms.gle/XfDyjjVeEXCY8VUq6" target="_blank" >Enroll Now!</Link></button>
             </div>
         </section>
     )

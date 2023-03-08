@@ -23,7 +23,7 @@ export const About = () => {
                     <Image src="/images/classroom image.jpg" alt="" fill={true} className=' w-full pb-5 object-contain' />
                 </div>
                 <p className='font-molengo'>
-                <strong>Forward Education</strong> was established back in <strong>1996</strong> by Meenu Sethi who graduated from <strong>SRCC</strong> in first division in 1993 and further excelled herself in clearing coveted <strong>Chartered Accountancy</strong> examination in just 3 years – a rare achievement.
+                    <strong>Forward Education</strong> was established back in <strong>1996</strong> by Meenu Sethi who graduated from <strong>SRCC</strong> in first division in 1993 and further excelled herself in clearing coveted <strong>Chartered Accountancy</strong> examination in just 3 years – a rare achievement.
                 </p>
                 <br />
                 <p className='font-molengo'>
@@ -37,13 +37,13 @@ export const About = () => {
                 </ul>
                 <br />
                 <p>
-                Education imparted at <strong>FORWARD EDUCATION</strong>  greatly helps the students in achieving academic excellence in school examinations and prepares them for competitive examinations as well.
+                    Education imparted at <strong>FORWARD EDUCATION</strong>  greatly helps the students in achieving academic excellence in school examinations and prepares them for competitive examinations as well.
                 </p>
 
 
             </div>
 
-            <div className='w-[47%] h-[45vh] px-4 mt-auto mb-auto hidden md:block relative md:mx-4'>
+            <div className='w-[47%] h-[45vh] px-4 mt-auto mb-auto hidden -z-20 md:block relative md:mx-4'>
                 <Image src="/images/classroom image.jpg" className='object-contain' fill={true} alt="" />
             </div>
         </section>

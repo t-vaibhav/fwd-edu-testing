@@ -4,17 +4,21 @@ import Image from 'next/image'
 import Heading from '@/components/Heading'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
+import Link from 'next/link'
+
+
+
 const contact = () => {
     return (
         <>
             <Navbar />
             <div>
 
-                <div className=" w-full min-h-[80vh]  pt-28 relative     "   >
+                <div className=" w-full min-h-[80vh] pt-28 relative     "   >
                     <Image src="https://media.istockphoto.com/id/1335509326/photo/light-pink-and-blue-defocused-blurred-motion-abstract-background.jpg?s=612x612&w=0&k=20&c=KxoOERQPUuqzsWXJLVN11EQ0iPkwl9ixUAICGaT1qwU=" alt="bg" fill={true} className="-z-20 object-fill" />
 
-                    <div className="justify-center  items-center  flex flex-col-reverse lg:flex-row-reverse lg:h-[90vh] lg:mx-16">
-                        <div className="md:mr-2 md:w-[85%] md:ml-1 px-5 ">
+                    <div className="justify-center  items-center  flex flex-col-reverse lg:flex-row-reverse lg:h-[90vh] lg:mx-16   ">
+                        <div className="md:mr-2 md:w-[85%] md:ml-1 px-5 max-w-[50%] ">
 
                             <h1 className="pt-12 font-extrabold text-2xl lg:text-4xl text-black shadow-graytext-gray-100 font-kanit">We are here to Help!</h1>
                             <p className=" text-lg lg:text-2xl shadow-graytext-gray-100 text-black font-molengo py-5 font-bold">We are here to Help!
@@ -27,7 +31,7 @@ const contact = () => {
                                 Thank you for considering Forward Education for your academic needs. We look forward to hearing from you and providing the best educational experience possible.</p>
                         </div>
 
-                        <div className="lg:w-[35%] lg:h-[85%] md:w-[85%] md:mt-10 lg:mt-0 lg:mx-10 bg-gray-100 p-7 shadow-2xl rounded-lg md:transition ease-in-out hover:scale-95 duration-700 md:mr-16 m-6">
+                        <div className="lg:w-[55vh] lg:h-[85%] md:w-[85%] md:mt-10 lg:mt-0 lg:mx-10 bg-gray-100 p-7 shadow-2xl rounded-lg md:transition ease-in-out hover:scale-95 duration-700 md:mr-16 m-6">
                             <h5 className="text-center font-extrabold text-3xl font-kanit">Contact Us</h5>
                             <Script src="https://cdn.lordicon.com/ritcuqlt.js"></Script>
 
@@ -41,7 +45,7 @@ const contact = () => {
                             </div>
 
 
-                            <div className="flex mt-8">
+                            <div className="flex mt-6">
                                 <lord-icon
                                     src="https://cdn.lordicon.com/tftaqjwp.json"
                                     trigger="hover"
@@ -51,7 +55,7 @@ const contact = () => {
                                 <p className="font-semibold text-lg font-molengo">9810763856</p>
                             </div>
 
-                            <div className="flex mt-8">
+                            <div className="flex mt-6">
                                 <div className="w-20 h-20">
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" >
                                         <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
@@ -69,7 +73,7 @@ const contact = () => {
                                 </div>
 
                             </div>
-                            <div className="flex mt-8">
+                            <div className="flex mt-4">
                                 <div className="w-20 h-20">
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" >
                                         <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
@@ -78,8 +82,13 @@ const contact = () => {
                                 </div>
                                 <div className="ml-2 font-semibold text-lg  font-molengo ">
                                     CSP Tower 1, Unit no. 1101, 1st Floor, DLF Capital Greens, Shivaji Marg, Near Moti Nagar, New Delhi - 110015
+
                                 </div>
 
+
+                            </div>
+                            <div className='flex justify-center'>
+                                <button className=' bg-green-500 py-1 mt-8 px-4 mb-2 md:px-6 text-neutral-200 rounded-sm  hover:bg-red-400 '> <Link href="https://forms.gle/XfDyjjVeEXCY8VUq6" target="_blank" >Enroll Now!</Link></button>
                             </div>
                         </div>
                     </div>

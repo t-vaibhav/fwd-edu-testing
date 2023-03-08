@@ -9,7 +9,16 @@
 }
 
 
-.mainContact{
+.mainContact {
     background-image: url('https://media.istockphoto.com/id/1335509326/photo/light-pink-and-blue-defocused-blurred-motion-abstract-background.jpg?s=612x612&w=0&k=20&c=KxoOERQPUuqzsWXJLVN11EQ0iPkwl9ixUAICGaT1qwU=');
 
+}
+
+
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
 }

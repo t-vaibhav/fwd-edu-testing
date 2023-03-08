@@ -12,6 +12,8 @@ import Footer from '@/components/Footer'
 import Stats from '@/components/Stats'
 
 import { sectionData } from '@/utility/data'
+import React, { useState, useEffect } from 'react'
+// import Popup from '../components/Popup'
 // import LowerHalf from '@/components/LowerHalf'
 
 
@@ -25,6 +27,9 @@ export default function Home() {
       suffix={data.suffix}
     />
   ));
+
+
+
   return (
     <>
       <Head>
@@ -36,19 +41,18 @@ export default function Home() {
 
       </Head>
       <Navbar />
-
       <div className='flex flex-col space-y-14'>
-      <Hero />
-      <About />
-      <div className='grid md:grid-cols-4  grid-cols-2 gri-cols-1 px-5 md:px-0 w-full gap-8 max-w-5xl mx-auto'>
-        {renderStatData}
+        <Hero />
+        <About />
+        <div className='grid md:grid-cols-4  grid-cols-2 gri-cols-1 px-5 md:px-0 w-full gap-8 max-w-5xl mx-auto'>
+          {renderStatData}
+        </div>
+        <Whyus />
+        <Subject />
+        <Teacher />
       </div>
-      <Whyus />
-      <Subject />
-      <Teacher />
-      </div>
-      
-     
+
+
       {/* <Reviews /> */}
       <Footer />
 
@@ -58,3 +62,10 @@ export default function Home() {
     </>
   )
 }
+
+
+
+
+
+
+
