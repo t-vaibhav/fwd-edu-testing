@@ -17,7 +17,7 @@ function App({ Component, pageProps }) {
   useEffect(() => {
     setTimeout(() => {
       setShowPopup(true);
-    }, 100);
+    }, 5000);
   }, []);
 
   return (
