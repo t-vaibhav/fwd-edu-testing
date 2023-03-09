@@ -8,7 +8,10 @@ import Link from 'next/link'
 import Head from 'next/head'
 
 
-
+// const mystyle = {
+//     height: '50px',
+//     widht: '50px'
+// }
 const contact = () => {
     return (
         <>
@@ -42,58 +45,51 @@ const contact = () => {
                             <h5 className="text-center font-extrabold text-3xl font-kanit">Contact Us</h5>
                             <Script src="https://cdn.lordicon.com/ritcuqlt.js"></Script>
 
-                            <div className="flex mt-8 mx-auto">
+                            <div className="flex ml-[2px] mt-8 mx-auto ">
                                 <lord-icon
                                     src="https://cdn.lordicon.com/ehfubvwr.json"
                                     trigger="hover"
-                                    className=" mr-2">
+                                    className=" mr-2 h-7">
                                 </lord-icon>
-                                <p className="font-semibold text-lg font-molengo">meenu.ca@gmail.com</p>
+                                <p className="font-semibold text-lg pl-2 font-molengo">meenu.ca@gmail.com</p>
+                            </div>
+
+
+                            <div className="flex ml-[2px] mt-6 mr-20">
+                                <lord-icon
+                                    src="https://cdn.lordicon.com/tftaqjwp.json"
+                                    trigger="hover"
+                                    className="pr-8">
+                                </lord-icon>
+
+                                <p className="font-semibold text-lg pl-2 font-molengo ">9810763856</p>
                             </div>
 
 
                             <div className="flex mt-6">
-                                <lord-icon
-                                    src="https://cdn.lordicon.com/tftaqjwp.json"
-                                    trigger="hover"
-                                    className="mr-2">
-                                </lord-icon>
+                                <div className=" items-center justify-between flex font-semibold text-lg font-molengo">
+                                    <Image src="/images/pin.png" alt="bg" height={35} width={35} className="mr-2 pb-1" />
 
-                                <p className="font-semibold text-lg font-molengo">9810763856</p>
-                            </div>
-
-                            <div className="flex  mt-6">
-                                <div className="w-20 h-20">
-                                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" >
-                                        <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
-                                        <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
-                                    </svg>
-
-                                </div>
-                                <div className="ml-2 font-semibold text-lg  font-molengo ">
                                     <p> T-2, Ansal Utility Complex,
                                         Near Jwala Heri Haldiram,
                                         Paschim Vihar,
                                         New Delhi - 110063
                                     </p>
-
                                 </div>
-
                             </div>
-                            <div className="flex mt-4">
-                                <div className="w-20 h-20">
-                                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" >
-                                        <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
-                                        <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
-                                    </svg>
+
+                            <div className="flex mt-6">
+                                <div className=" items-center justify-between flex font-semibold text-lg font-molengo">
+                                    <Image src="/images/pin.png" alt="bg" height={35} width={35} className="mr-2 pb-1" />
+
+                                    <p> CSP Tower 1, Unit no. 1101,
+                                        1st Floor, DLF Capital Greens,
+                                        Shivaji Marg, Near Moti Nagar,
+                                        New Delhi - 110015
+                                    </p>
                                 </div>
-                                <div className="ml-2 font-semibold text-lg  font-molengo ">
-                                    CSP Tower 1, Unit no. 1101, 1st Floor, DLF Capital Greens, Shivaji Marg, Near Moti Nagar, New Delhi - 110015
-
-                                </div>
-
-
                             </div>
+
                             <div className='flex justify-center'>
                                 <button className=' bg-green-500 py-1 mt-8 px-4 mb-2 md:px-6 text-neutral-200 rounded-sm  hover:bg-red-400 '> <Link href="https://forms.gle/XfDyjjVeEXCY8VUq6" target="_blank" >Enroll Now!</Link></button>
                             </div>
@@ -102,7 +98,7 @@ const contact = () => {
                 </div>
 
 
-            </div>
+            </div >
             <Footer />
         </>
 
