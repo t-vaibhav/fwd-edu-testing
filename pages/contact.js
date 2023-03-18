@@ -31,7 +31,7 @@ const contact = () => {
                         <div className="md:mr-2 md:w-[85%] md:ml-1 px-5 lg:max-w-[60%] ">
 
                             <h1 className="pt-12 font-extrabold text-2xl lg:text-4xl text-black shadow-graytext-gray-100 font-kanit">We are here to Help!</h1>
-                            <p className=" text-lg lg:text-2xl shadow-graytext-gray-100 text-black font-molengo py-5 font-bold">We are here to Help!
+                            <p className=" text-lg lg:text-2xl shadow-graytext-gray-100 text-black font-molengo py-5 font-bold">
                                 We believe in the power of communication, and we&apos;re always eager to hear from our students, parents and well-wishers. Whether it&apos;s a question, feedback or enrolment, we appreciate it and encourage you to reach out to us.
 
 

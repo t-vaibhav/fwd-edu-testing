@@ -35,8 +35,8 @@ function App({ Component, pageProps }) {
             <Script src="https://cdn.lordicon.com/ritcuqlt.js"></Script>
 
 
-            <p className='backdrop-blur-0'>Admissions open for academic year 2023-24 ✨</p>
-            <p className=''>Special offer for first 10 admissions!.</p>
+            <p className='backdrop-blur-0'>Admissions open for academic year 2023-24 </p>
+            <p className=''>Special offer for first 10 admissions✨</p>
             <button className=' bg-green-500 py-2 mt-16 px-6 text-neutral-100 rounded-sm  hover:bg-green-400 ' onClick={() => setShowPopup(!showPopup)}> <Link href="https://forms.gle/XfDyjjVeEXCY8VUq6" target="_blank" >Enroll Now!</Link></button>
             <div className='transition ease-in-out hover:scale-125 hover:opacity-90 duration-200  text-blue-500 text-xl my-3 mx-3 font-molengo hover:underline hover:text-blue-700 cursor-pointer absolute top-0 right-0' onClick={() => setShowPopup(!showPopup)}>
               <Image src="/images/close.png" alt="" className=' ' width={25} height={25} />

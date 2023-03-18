@@ -21,7 +21,7 @@ const Navbar = () => {
             <li className='py-2.5 pl-6  hover:text-lime-600'><Link href="/#about">About</Link></li>
             <li className='py-2.5 pl-6  hover:text-lime-600'><Link href="/#popular-courses">Subjects</Link></li>
             <li className='py-2.5 pl-6  hover:text-lime-600'><Link href="/#teachers">Founder</Link></li>
-            <li className='py-2.5 pl-6  hover:text-lime-600'><Link href="/gallery">Gallery</Link></li>
+            {/* <li className='py-2.5 pl-6  hover:text-lime-600'><Link href="/gallery">Gallery</Link></li> */}
             <li className='py-2.5 pl-6  hover:text-lime-600'><Link href="/results">Results</Link></li>
             <li className='py-2.5 pl-6  hover:text-lime-600'><Link href="/reviews">Reviews</Link></li>
             <li className='py-2.5 pl-6  hover:text-lime-600'><Link href="/contact">Contact</Link></li>
@@ -40,7 +40,7 @@ const Navbar = () => {
               <li className='' onClick={() => sethamburger(true)}><Link href="/#about">About</Link></li>
               <li className='' onClick={() => sethamburger(true)}><Link href="/#popular-courses">Subjects</Link></li>
               <li className='' onClick={() => sethamburger(true)}><Link href="/#teachers">Founder</Link></li>
-              <li className='' ><Link href="/gallery">Gallery</Link></li>
+              {/* <li className='' ><Link href="/gallery">Gallery</Link></li> */}
               <li className='' ><Link href="/results">Results</Link></li>
               <li className='' ><Link href="/reviews">Reviews</Link></li>
               <li className='' ><Link href="/contact">Contact</Link></li>
