@@ -76,7 +76,7 @@ export const Footer = () => {
 
                 <div className='max-w-screen-lg ml-auto mr-auto sm:flex sm:justify-between sm:items-center  '>
                     <div className='text-center sm:text-left'>
-                        &copy; Copyright <strong><span>Forward Education</span></strong>. All Rights Reserved <br /> Developed & Maintained by <Link href="#" className='text-green-600 hover:underline hover:text-green-800'>Chaitanya Anand </Link >
+                        &copy; Copyright <strong><span>Forward Education</span></strong>. All Rights Reserved <br /> Developed & Maintained by <Link href="#" className='text-green-600 hover:underline hover:text-green-800'>Vaibhav Tiwari</Link >
                     </div>
 
                     <div className='flex items-center justify-center sm:inline space-x-5 pt-5 md:pt-0'>
