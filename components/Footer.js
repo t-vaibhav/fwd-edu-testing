@@ -76,7 +76,7 @@ export const Footer = () => {
 
                 <div className='max-w-screen-lg ml-auto mr-auto sm:flex sm:justify-between sm:items-center  '>
                     <div className='text-center sm:text-left'>
-                        &copy; Copyright <strong><span>Forward Education</span></strong>. All Rights Reserved <br /> Developed & Maintained by <Link href="#" className='text-green-600 hover:underline hover:text-green-800'>Vaibhav Tiwari</Link >
+                        &copy; Copyright <strong><span>Forward Education</span></strong>. All Rights Reserved
                     </div>
 
                     <div className='flex items-center justify-center sm:inline space-x-5 pt-5 md:pt-0'>
@@ -85,6 +85,8 @@ export const Footer = () => {
                         <Link href="https://www.google.co.in/search?q=forward+education&sxsrf=AJOqlzXFbGQ90sxRRSWx7l-vkh9iu0NwYg%3A1677514791565&source=hp&ei=J9j8Y8-0H525seMPppOMkAU&iflsig=AK50M_UAAAAAY_zmNz0dkzePr-5HeLIT55ofTViBGURH&gs_ssp=eJzj4tVP1zc0LCzKy8gzNjQzYLRSNagwtjRIMTBOMTRJTjYysLRIsTKoMDcxSbIwNUlNNjQwMjcwtvASTMsvKk8sSlFITSlNTizJzM8DAN_lFT4&oq=for&gs_lcp=Cgdnd3Mtd2l6EAEYADIKCC4QxwEQrwEQJzIFCAAQkQIyBQgAEJECMgQIABBDMgQIABBDMgsIABCABBCxAxDJAzIICAAQsQMQgwEyCAgAEIAEELEDMggIABCxAxCDATIOCC4QxwEQsQMQ0QMQgAQ6BAgjECc6EQguELEDEIMBEMcBENEDEJECOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6BQgAEIAEUABY6wVgtw5oAHAAeACAAbgCiAHrBJIBBzAuMi4wLjGYAQCgAQE&sclient=gws-wiz" legacyBehavior><a href="https://www.google.co.in/search?q=forward+education&sxsrf=AJOqlzXFbGQ90sxRRSWx7l-vkh9iu0NwYg%3A1677514791565&source=hp&ei=J9j8Y8-0H525seMPppOMkAU&iflsig=AK50M_UAAAAAY_zmNz0dkzePr-5HeLIT55ofTViBGURH&gs_ssp=eJzj4tVP1zc0LCzKy8gzNjQzYLRSNagwtjRIMTBOMTRJTjYysLRIsTKoMDcxSbIwNUlNNjQwMjcwtvASTMsvKk8sSlFITSlNTizJzM8DAN_lFT4&oq=for&gs_lcp=Cgdnd3Mtd2l6EAEYADIKCC4QxwEQrwEQJzIFCAAQkQIyBQgAEJECMgQIABBDMgQIABBDMgsIABCABBCxAxDJAzIICAAQsQMQgwEyCAgAEIAEELEDMggIABCxAxCDATIOCC4QxwEQsQMQ0QMQgAQ6BAgjECc6EQguELEDEIMBEMcBENEDEJECOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6BQgAEIAEUABY6wVgtw5oAHAAeACAAbgCiAHrBJIBBzAuMi4wLjGYAQCgAQE&sclient=gws-wiz" target="_blank" rel="noreferrer"><img className='h-12 inline' src="https://img.icons8.com/color/48/null/google-logo.png" /></a></Link>
 
                         <Link href="https://api.whatsapp.com/send?phone=919810763856" legacyBehavior><a href="https://api.whatsapp.com/send?phone=919810763856" target="_blank" rel="noreferrer"><img className='h-12 inline' src="https://img.icons8.com/color/90/null/whatsapp--v1.png" /></a></Link>
+
+                        <Link href="https://youtube.com/@cameenusethi" legacyBehavior><a href="https://youtube.com/@cameenusethi" target="_blank" rel="noreferrer"><img className='h-12 inline' src="https://img.icons8.com/color/90/null/youtube-play.png"/></a></Link>
                     </div>
                 </div>
             </div>

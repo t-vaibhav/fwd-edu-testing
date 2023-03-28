@@ -7,6 +7,7 @@ const Hero = () => {
         backgroundImage: 'url("/images/fecoverpic.jpg")',
         height: "90vh",
         backgroundAttachment: "fixed",
+        backgroundPosition: "top",
 
     }
 
